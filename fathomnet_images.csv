@@ -1,4 +1,4 @@
-path,width,height,boundingBoxes_height,boundingBoxes_width,boundingBoxes_x,boundingBoxes_y,label
+path,width,height,boundingBoxes_height,boundingBoxes_width,boundingBoxes_x,boundingBoxes_y,name
 fathomnet_data\Bathochordaeus\images\Bathochordaeus_0.jpg,1920,1080,493,421,816,519,Bathochordaeus
 fathomnet_data\Bathochordaeus\images\Bathochordaeus_1.jpg,1920,1080,509,365,470,186,Bathochordaeus
 fathomnet_data\Bathochordaeus\images\Bathochordaeus_2.jpg,1920,1080,198,248,750,479,Bathochordaeus
