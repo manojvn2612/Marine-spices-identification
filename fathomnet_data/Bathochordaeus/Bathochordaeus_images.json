@@ -1,0 +1,2404 @@
+[
+    {
+        "uuid": "b7736c31-0b78-4761-840c-e3781d6845be",
+        "url": "https://database.fathomnet.org/static/m3/framegrabs/Doc%20Ricketts/images/100036/04_38_10_29.png",
+        "local_path": "fathomnet_data\\Bathochordaeus\\images\\Bathochordaeus_0.jpg",
+        "contributorsEmail": "brian@mbari.org",
+        "width": 1920,
+        "height": 1080,
+        "imagingType": "ROV",
+        "salinity": null,
+        "temperatureCelsius": null,
+        "oxygenMlL": null,
+        "latitude": null,
+        "longitude": null,
+        "sha256": "288be7dd979ec3ab5cde255367e40a94594d9c21af176fb3243b8874e4ea061f",
+        "createdTimestamp": "2021-09-29T21:15:52.011Z",
+        "lastValidation": "2024-12-01T11:57:49.748079Z",
+        "valid": true,
+        "lastUpdatedTimestamp": "2024-12-01T11:57:49.755Z",
+        "tags": [
+            {
+                "uuid": "5a9b7184-835d-4d3e-8a49-786ffdf26ac4",
+                "key": "source",
+                "value": "MBARI/VARS",
+                "mediaType": "text/plain"
+            }
+        ],
+        "boundingBoxes": [
+            {
+                "uuid": "fc97b242-7a34-4e9a-b7d4-195058f0b5a4",
+                "userDefinedKey": "5bdd86bd-5883-4bcc-7069-3a5e4512ba1e",
+                "concept": "Bathochordaeus",
+                "height": 493,
+                "observer": "kakani.katija@gmail.com",
+                "width": 421,
+                "x": 816,
+                "y": 519,
+                "rejected": false,
+                "verified": true,
+                "lastUpdatedTimestamp": "2022-04-05T20:51:02.688Z",
+                "createdTimestamp": "2021-09-29T21:15:53.691Z"
+            }
+        ]
+    },
+    {
+        "uuid": "9b0bc09b-85b2-4b72-99db-bf91b36a9f89",
+        "url": "https://database.fathomnet.org/static/m3/framegrabs/Doc%20Ricketts/images/100039/02_56_33_25.png",
+        "local_path": "fathomnet_data\\Bathochordaeus\\images\\Bathochordaeus_1.jpg",
+        "contributorsEmail": "brian@mbari.org",
+        "width": 1920,
+        "height": 1080,
+        "imagingType": "ROV",
+        "salinity": null,
+        "temperatureCelsius": null,
+        "oxygenMlL": null,
+        "latitude": null,
+        "longitude": null,
+        "sha256": "96f26f8b05d334ef3644d0f284078bb5d86b30c5c28f787fbdfcdad2a77848d9",
+        "createdTimestamp": "2021-09-29T21:15:52.074Z",
+        "lastValidation": "2024-12-01T11:57:30.247791Z",
+        "valid": true,
+        "lastUpdatedTimestamp": "2024-12-01T11:57:30.254Z",
+        "tags": [
+            {
+                "uuid": "01fdefdc-febb-4bad-ae3a-2416997697c9",
+                "key": "source",
+                "value": "MBARI/VARS",
+                "mediaType": "text/plain"
+            }
+        ],
+        "boundingBoxes": [
+            {
+                "uuid": "88df9f00-16bd-4bb7-9d43-81fc31ff103f",
+                "userDefinedKey": "38ab79a1-d4e5-45e1-0f6e-f03d3d12ba1e",
+                "concept": "Bathochordaeus",
+                "height": 509,
+                "observer": "mage",
+                "width": 365,
+                "x": 470,
+                "y": 186,
+                "rejected": false,
+                "verified": false,
+                "lastUpdatedTimestamp": "2021-09-29T21:15:53.771Z",
+                "createdTimestamp": "2021-09-29T21:15:53.771Z"
+            }
+        ]
+    },
+    {
+        "uuid": "8bf45f3c-4d11-418c-b384-2dfdc2e6c01c",
+        "url": "https://database.fathomnet.org/static/m3/framegrabs/Doc%20Ricketts/images/100039/02_55_45_25.png",
+        "local_path": "fathomnet_data\\Bathochordaeus\\images\\Bathochordaeus_2.jpg",
+        "contributorsEmail": "brian@mbari.org",
+        "width": 1920,
+        "height": 1080,
+        "imagingType": "ROV",
+        "salinity": null,
+        "temperatureCelsius": null,
+        "oxygenMlL": null,
+        "latitude": null,
+        "longitude": null,
+        "sha256": "c8d76fd19f5c9e80fc054be47f3c5ef5ec31225ca101aa0d231a1749145fa493",
+        "createdTimestamp": "2021-09-29T21:15:52.172Z",
+        "lastValidation": "2024-12-01T11:57:01.721570Z",
+        "valid": true,
+        "lastUpdatedTimestamp": "2024-12-01T11:57:01.725Z",
+        "tags": [
+            {
+                "uuid": "48bb63ab-2625-4a5c-ab13-b7ac627f6895",
+                "key": "source",
+                "value": "MBARI/VARS",
+                "mediaType": "text/plain"
+            }
+        ],
+        "boundingBoxes": [
+            {
+                "uuid": "16dd69e8-1f6e-4fb2-a15b-85e2d42adb64",
+                "userDefinedKey": "ce7e69c8-52f9-45b9-5a64-f1303d12ba1e",
+                "concept": "Bathochordaeus",
+                "height": 198,
+                "observer": "mage",
+                "width": 248,
+                "x": 750,
+                "y": 479,
+                "rejected": false,
+                "verified": false,
+                "lastUpdatedTimestamp": "2021-09-29T21:15:53.927Z",
+                "createdTimestamp": "2021-09-29T21:15:53.927Z"
+            }
+        ]
+    },
+    {
+        "uuid": "bfa62293-1723-4643-8954-a60786f10ad5",
+        "url": "https://database.fathomnet.org/static/m3/framegrabs/MiniROV/images/0056/01_25_40_03.png",
+        "local_path": "fathomnet_data\\Bathochordaeus\\images\\Bathochordaeus_3.jpg",
+        "contributorsEmail": "brian@mbari.org",
+        "width": 1920,
+        "height": 1080,
+        "imagingType": "ROV",
+        "salinity": null,
+        "temperatureCelsius": null,
+        "oxygenMlL": null,
+        "latitude": null,
+        "longitude": null,
+        "sha256": "0d1493e4d82f83a93521333c384278037b14910d26217a3fc051f01484fa8ad3",
+        "createdTimestamp": "2021-09-29T21:15:52.205Z",
+        "lastValidation": "2024-12-01T11:56:44.378747Z",
+        "valid": true,
+        "lastUpdatedTimestamp": "2024-12-01T11:56:44.394Z",
+        "tags": [
+            {
+                "uuid": "5cf6716d-1c83-42aa-bc8d-dcf0a786f798",
+                "key": "source",
+                "value": "MBARI/VARS",
+                "mediaType": "text/plain"
+            }
+        ],
+        "boundingBoxes": [
+            {
+                "uuid": "bdd182ca-7abe-4d89-8106-6820bb22e2fc",
+                "userDefinedKey": "7efdea62-7795-4965-f662-15183712ba1e",
+                "concept": "Bathochordaeus",
+                "height": 31,
+                "observer": "kakani.katija@gmail.com",
+                "width": 95,
+                "x": 925,
+                "y": 533,
+                "rejected": false,
+                "verified": true,
+                "lastUpdatedTimestamp": "2022-04-05T20:51:53.111Z",
+                "createdTimestamp": "2021-09-29T21:15:54.003Z"
+            },
+            {
+                "uuid": "9afa0bce-39cd-4701-abad-1afda07ce514",
+                "userDefinedKey": "172b07fc-acac-4d14-4266-03163712ba1e",
+                "concept": "Bathochordaeus",
+                "height": 176,
+                "observer": "kakani.katija@gmail.com",
+                "width": 198,
+                "x": 876,
+                "y": 447,
+                "rejected": false,
+                "verified": true,
+                "lastUpdatedTimestamp": "2022-04-05T20:51:53.108Z",
+                "createdTimestamp": "2021-09-29T21:15:54.003Z"
+            }
+        ]
+    },
+    {
+        "uuid": "a1b4d4ff-a22c-417b-921f-a1dd98c21f7a",
+        "url": "https://database.fathomnet.org/static/m3/framegrabs/Doc%20Ricketts/images/100034/01_52_36_10.png",
+        "local_path": "fathomnet_data\\Bathochordaeus\\images\\Bathochordaeus_4.jpg",
+        "contributorsEmail": "brian@mbari.org",
+        "width": 1920,
+        "height": 1080,
+        "imagingType": "ROV",
+        "salinity": null,
+        "temperatureCelsius": null,
+        "oxygenMlL": null,
+        "latitude": null,
+        "longitude": null,
+        "sha256": "af09ded52613abcbc09b9bd3e8bf1099935c1b9c3d7c14e040000b309c5b2172",
+        "createdTimestamp": "2021-09-29T21:16:03.506Z",
+        "lastValidation": "2024-12-01T11:52:54.580713Z",
+        "valid": true,
+        "lastUpdatedTimestamp": "2024-12-01T11:52:54.585Z",
+        "tags": [
+            {
+                "uuid": "e421fe13-71d2-4237-b3e5-3c7b56659e84",
+                "key": "source",
+                "value": "MBARI/VARS",
+                "mediaType": "text/plain"
+            }
+        ],
+        "boundingBoxes": [
+            {
+                "uuid": "a76bdbe0-55a7-4265-b66e-069dca00c4e8",
+                "userDefinedKey": "4a0a8c19-1fcb-49b6-326e-5d3e57c3aa1e",
+                "concept": "Bathochordaeus",
+                "height": 323,
+                "observer": "robs",
+                "width": 360,
+                "x": 737,
+                "y": 265,
+                "rejected": false,
+                "verified": false,
+                "lastUpdatedTimestamp": "2021-09-29T21:16:04.844Z",
+                "createdTimestamp": "2021-09-29T21:16:04.844Z"
+            }
+        ]
+    },
+    {
+        "uuid": "08ab1418-94a9-4110-847d-bb7cad8f21d6",
+        "url": "https://database.fathomnet.org/static/m3/framegrabs/Mini%20ROV/images/0086/00_52_22_13.png",
+        "local_path": "fathomnet_data\\Bathochordaeus\\images\\Bathochordaeus_5.jpg",
+        "contributorsEmail": "brian@mbari.org",
+        "width": 1920,
+        "height": 1080,
+        "imagingType": "ROV",
+        "salinity": null,
+        "temperatureCelsius": null,
+        "oxygenMlL": null,
+        "latitude": null,
+        "longitude": null,
+        "sha256": "8ff607458d5a0fe10534ebe18fefc8174db812a313f3ac6f81fbd8337c3d0ab0",
+        "createdTimestamp": "2021-09-29T21:16:09.310Z",
+        "lastValidation": "2024-12-01T11:51:48.657528Z",
+        "valid": true,
+        "lastUpdatedTimestamp": "2024-12-01T11:51:48.662Z",
+        "tags": [
+            {
+                "uuid": "e41316e4-32ca-4f81-bb30-9abfee87f67a",
+                "key": "source",
+                "value": "MBARI/VARS",
+                "mediaType": "text/plain"
+            }
+        ],
+        "boundingBoxes": [
+            {
+                "uuid": "1fab908c-f08b-40af-9a11-1024b5d18166",
+                "userDefinedKey": "91e20041-2ea0-43ea-e861-47de3112ba1e",
+                "concept": "Bathochordaeus",
+                "height": 140,
+                "observer": "svonthun",
+                "width": 157,
+                "x": 555,
+                "y": 861,
+                "rejected": false,
+                "verified": false,
+                "lastUpdatedTimestamp": "2021-09-29T21:16:10.838Z",
+                "createdTimestamp": "2021-09-29T21:16:10.838Z"
+            }
+        ]
+    },
+    {
+        "uuid": "be7cb6a2-6c8f-49b8-ab07-9caf6bac9217",
+        "url": "https://database.fathomnet.org/static/m3/framegrabs/Doc%20Ricketts/images/100036/03_22_08_18.png",
+        "local_path": "fathomnet_data\\Bathochordaeus\\images\\Bathochordaeus_6.jpg",
+        "contributorsEmail": "brian@mbari.org",
+        "width": 1920,
+        "height": 1080,
+        "imagingType": "ROV",
+        "salinity": null,
+        "temperatureCelsius": null,
+        "oxygenMlL": null,
+        "latitude": null,
+        "longitude": null,
+        "sha256": "c62a4b68f7691eb67394fa15c6ce2f357be8ec1a04e019ad0966784742201952",
+        "createdTimestamp": "2021-09-29T21:16:09.352Z",
+        "lastValidation": "2024-12-01T11:51:39.743406Z",
+        "valid": true,
+        "lastUpdatedTimestamp": "2024-12-01T11:51:39.749Z",
+        "tags": [
+            {
+                "uuid": "2fad4079-f2a9-4c6f-afde-a83ba1b951ea",
+                "key": "source",
+                "value": "MBARI/VARS",
+                "mediaType": "text/plain"
+            }
+        ],
+        "boundingBoxes": [
+            {
+                "uuid": "1407c084-5840-4c20-868d-238279866dc9",
+                "userDefinedKey": "93191f28-347a-4d07-f96a-79493e12ba1e",
+                "concept": "Bathochordaeus",
+                "height": 174,
+                "observer": "sbush",
+                "width": 224,
+                "x": 659,
+                "y": 423,
+                "rejected": false,
+                "verified": false,
+                "lastUpdatedTimestamp": "2021-09-29T21:16:10.893Z",
+                "createdTimestamp": "2021-09-29T21:16:10.893Z"
+            },
+            {
+                "uuid": "412ea7e1-461f-4422-a239-8e0bfe4a0582",
+                "userDefinedKey": "b974e910-dd43-4b5f-b163-8e4c3e12ba1e",
+                "concept": "Bathochordaeus",
+                "height": 108,
+                "observer": "sbush",
+                "width": 110,
+                "x": 687,
+                "y": 435,
+                "rejected": false,
+                "verified": false,
+                "lastUpdatedTimestamp": "2021-09-29T21:16:10.893Z",
+                "createdTimestamp": "2021-09-29T21:16:10.893Z"
+            }
+        ]
+    },
+    {
+        "uuid": "441b28fc-1099-4fa1-aaff-ef0dc8e37902",
+        "url": "https://database.fathomnet.org/static/m3/framegrabs/Doc%20Ricketts/images/100036/04_37_02_29.png",
+        "local_path": "fathomnet_data\\Bathochordaeus\\images\\Bathochordaeus_7.jpg",
+        "contributorsEmail": "brian@mbari.org",
+        "width": 1920,
+        "height": 1080,
+        "imagingType": "ROV",
+        "salinity": null,
+        "temperatureCelsius": null,
+        "oxygenMlL": null,
+        "latitude": null,
+        "longitude": null,
+        "sha256": "740813c5f7048154b164a6d31b824370897e4d0345b7bc2b388a1784a18a6df5",
+        "createdTimestamp": "2021-09-29T21:16:15.520Z",
+        "lastValidation": "2024-12-01T11:50:59.938305Z",
+        "valid": true,
+        "lastUpdatedTimestamp": "2024-12-01T11:50:59.944Z",
+        "tags": [
+            {
+                "uuid": "8529a385-9943-43c5-b158-b34a13b29b02",
+                "key": "source",
+                "value": "MBARI/VARS",
+                "mediaType": "text/plain"
+            }
+        ],
+        "boundingBoxes": [
+            {
+                "uuid": "0be2aff4-9d3f-4d12-9830-82e0d78b9d54",
+                "userDefinedKey": "c8174b19-91ff-40e5-1e60-4b474512ba1e",
+                "concept": "Bathochordaeus",
+                "height": 289,
+                "observer": "sbush",
+                "width": 202,
+                "x": 967,
+                "y": 579,
+                "rejected": false,
+                "verified": false,
+                "lastUpdatedTimestamp": "2021-09-29T21:16:16.993Z",
+                "createdTimestamp": "2021-09-29T21:16:16.993Z"
+            },
+            {
+                "uuid": "4cd1bdcd-f154-48e6-9c7c-6e233eefd7ff",
+                "userDefinedKey": "a28aec19-e501-4c71-4a6b-0f454512ba1e",
+                "concept": "Bathochordaeus",
+                "height": 755,
+                "observer": "sbush",
+                "width": 1076,
+                "x": 560,
+                "y": 283,
+                "rejected": false,
+                "verified": false,
+                "lastUpdatedTimestamp": "2021-09-29T21:16:16.993Z",
+                "createdTimestamp": "2021-09-29T21:16:16.993Z"
+            }
+        ]
+    },
+    {
+        "uuid": "4a201de1-4b7e-41d4-bb1e-5748511130fa",
+        "url": "https://database.fathomnet.org/static/m3/framegrabs/Doc%20Ricketts/images/100036/04_29_50_04.png",
+        "local_path": "fathomnet_data\\Bathochordaeus\\images\\Bathochordaeus_8.jpg",
+        "contributorsEmail": "brian@mbari.org",
+        "width": 1920,
+        "height": 1080,
+        "imagingType": "ROV",
+        "salinity": null,
+        "temperatureCelsius": null,
+        "oxygenMlL": null,
+        "latitude": null,
+        "longitude": null,
+        "sha256": "df77552506ce6720693a33ab85e1122ce1b1a2385aadd2735930fd12475e1c4b",
+        "createdTimestamp": "2021-09-29T21:16:15.612Z",
+        "lastValidation": "2024-12-01T11:50:19.607184Z",
+        "valid": true,
+        "lastUpdatedTimestamp": "2024-12-01T11:50:19.612Z",
+        "tags": [
+            {
+                "uuid": "95965bb1-320a-4bd3-b0f9-a95d3b0555b8",
+                "key": "source",
+                "value": "MBARI/VARS",
+                "mediaType": "text/plain"
+            }
+        ],
+        "boundingBoxes": [
+            {
+                "uuid": "839e6b71-a9ae-4f33-b5d2-87a3f4a77528",
+                "userDefinedKey": "1cbfb85a-861d-4ac2-986b-bece6d12ba1e",
+                "concept": "Aulosphaera",
+                "height": 35,
+                "observer": "expert-observer",
+                "width": 35,
+                "x": 374,
+                "y": 410,
+                "rejected": false,
+                "verified": false,
+                "lastUpdatedTimestamp": "2021-09-29T21:16:17.120Z",
+                "createdTimestamp": "2021-09-29T21:16:17.120Z"
+            },
+            {
+                "uuid": "c102852b-dad3-4746-8ed3-74aa985d92b4",
+                "userDefinedKey": null,
+                "concept": "Bathochordaeus",
+                "height": 100,
+                "observer": null,
+                "width": 100,
+                "x": 464,
+                "y": 635,
+                "rejected": false,
+                "verified": true,
+                "lastUpdatedTimestamp": "2021-10-09T23:32:04.988Z",
+                "createdTimestamp": "2021-10-09T23:32:04.988Z"
+            }
+        ]
+    },
+    {
+        "uuid": "3df41e71-7b69-4789-9344-524e8d3298c4",
+        "url": "https://database.fathomnet.org/static/m3/framegrabs/Doc%20Ricketts/images/100039/02_57_11_26.png",
+        "local_path": "fathomnet_data\\Bathochordaeus\\images\\Bathochordaeus_9.jpg",
+        "contributorsEmail": "brian@mbari.org",
+        "width": 1920,
+        "height": 1080,
+        "imagingType": "ROV",
+        "salinity": null,
+        "temperatureCelsius": null,
+        "oxygenMlL": null,
+        "latitude": null,
+        "longitude": null,
+        "sha256": "c911f2773eeddea45eb00ca1aee7c1afb7377ba8740b82f2a2f44fe226aa02ea",
+        "createdTimestamp": "2021-09-29T21:16:15.624Z",
+        "lastValidation": "2024-12-01T11:50:18.005524Z",
+        "valid": true,
+        "lastUpdatedTimestamp": "2024-12-01T11:50:18.010Z",
+        "tags": [
+            {
+                "uuid": "f60df081-6a75-451c-8d6c-a6784c5978b9",
+                "key": "source",
+                "value": "MBARI/VARS",
+                "mediaType": "text/plain"
+            }
+        ],
+        "boundingBoxes": [
+            {
+                "uuid": "d062c4e5-813b-4b6c-8740-50ffe1abcfc5",
+                "userDefinedKey": "129cbf29-f6dc-4c90-a56f-a28c5ec3aa1e",
+                "concept": "Bathochordaeus",
+                "height": 186,
+                "observer": "mage",
+                "width": 81,
+                "x": 633,
+                "y": 303,
+                "rejected": false,
+                "verified": false,
+                "lastUpdatedTimestamp": "2021-09-29T21:16:17.153Z",
+                "createdTimestamp": "2021-09-29T21:16:17.153Z"
+            }
+        ]
+    },
+    {
+        "uuid": "28678e1d-8405-4fd1-a2d7-dacd06f52d77",
+        "url": "https://database.fathomnet.org/static/m3/framegrabs/Doc%20Ricketts/images/100039/02_30_35_23.png",
+        "local_path": "fathomnet_data\\Bathochordaeus\\images\\Bathochordaeus_10.jpg",
+        "contributorsEmail": "brian@mbari.org",
+        "width": 1920,
+        "height": 1080,
+        "imagingType": "ROV",
+        "salinity": null,
+        "temperatureCelsius": null,
+        "oxygenMlL": null,
+        "latitude": null,
+        "longitude": null,
+        "sha256": "8e09c4a3715956d8ffe84d3465a03a4908e92e29c2b595cb82d0d580ad42e05b",
+        "createdTimestamp": "2021-09-29T21:16:15.723Z",
+        "lastValidation": "2024-12-01T11:49:36.752170Z",
+        "valid": true,
+        "lastUpdatedTimestamp": "2024-12-01T11:49:36.760Z",
+        "tags": [
+            {
+                "uuid": "66b4cdaf-493e-4740-b1b6-a1bfef9acdaf",
+                "key": "source",
+                "value": "MBARI/VARS",
+                "mediaType": "text/plain"
+            }
+        ],
+        "boundingBoxes": [
+            {
+                "uuid": "373aa011-0ae2-4c93-a103-e11a18ca673d",
+                "userDefinedKey": "cf8e9f57-5e32-477d-7460-6d243c12ba1e",
+                "concept": "Bathochordaeus",
+                "height": 70,
+                "observer": "mage",
+                "width": 75,
+                "x": 1132,
+                "y": 563,
+                "rejected": false,
+                "verified": false,
+                "lastUpdatedTimestamp": "2021-09-29T21:16:17.302Z",
+                "createdTimestamp": "2021-09-29T21:16:17.302Z"
+            }
+        ]
+    },
+    {
+        "uuid": "8a5e5fda-b663-49a8-8cdc-9e87dd4391f0",
+        "url": "https://database.fathomnet.org/static/m3/framegrabs/Doc%20Ricketts/images/100036/04_37_06_29.png",
+        "local_path": "fathomnet_data\\Bathochordaeus\\images\\Bathochordaeus_11.jpg",
+        "contributorsEmail": "brian@mbari.org",
+        "width": 1920,
+        "height": 1080,
+        "imagingType": "ROV",
+        "salinity": null,
+        "temperatureCelsius": null,
+        "oxygenMlL": null,
+        "latitude": null,
+        "longitude": null,
+        "sha256": "2ee4d7c330d9cea5480b863ff7c634ec94b788f0b43367a35bbae83fc27af5d2",
+        "createdTimestamp": "2021-09-29T21:16:15.723Z",
+        "lastValidation": "2024-12-01T11:49:37.528799Z",
+        "valid": true,
+        "lastUpdatedTimestamp": "2024-12-01T11:49:37.532Z",
+        "tags": [
+            {
+                "uuid": "a95be80f-7f2a-4420-98a9-5a22bc0f53f9",
+                "key": "source",
+                "value": "MBARI/VARS",
+                "mediaType": "text/plain"
+            }
+        ],
+        "boundingBoxes": [
+            {
+                "uuid": "e1eb90d7-ab77-4560-b07a-30381c0d99f2",
+                "userDefinedKey": "dcd7fbaa-2ac6-4414-7361-90494512ba1e",
+                "concept": "Bathochordaeus",
+                "height": 371,
+                "observer": "sbush",
+                "width": 264,
+                "x": 1004,
+                "y": 303,
+                "rejected": false,
+                "verified": false,
+                "lastUpdatedTimestamp": "2021-09-29T21:16:17.302Z",
+                "createdTimestamp": "2021-09-29T21:16:17.302Z"
+            }
+        ]
+    },
+    {
+        "uuid": "f41c3c3c-477b-421d-b547-9754a1a3dfd3",
+        "url": "https://database.fathomnet.org/static/m3/framegrabs/Doc%20Ricketts/images/100039/02_58_43_19.png",
+        "local_path": "fathomnet_data\\Bathochordaeus\\images\\Bathochordaeus_12.jpg",
+        "contributorsEmail": "brian@mbari.org",
+        "width": 1920,
+        "height": 1080,
+        "imagingType": "ROV",
+        "salinity": null,
+        "temperatureCelsius": null,
+        "oxygenMlL": null,
+        "latitude": null,
+        "longitude": null,
+        "sha256": "aba463dba8bd1d018d1524aa4f74dacc8eda93765ef8563620f35549c0a3fbf3",
+        "createdTimestamp": "2021-09-29T21:16:22.281Z",
+        "lastValidation": "2024-12-01T11:48:28.457144Z",
+        "valid": true,
+        "lastUpdatedTimestamp": "2024-12-01T11:48:28.461Z",
+        "tags": [
+            {
+                "uuid": "cd84c395-0749-49e3-b9e0-053567a97a13",
+                "key": "source",
+                "value": "MBARI/VARS",
+                "mediaType": "text/plain"
+            }
+        ],
+        "boundingBoxes": [
+            {
+                "uuid": "bfa01da4-552b-4b50-b6a3-81356ecb1855",
+                "userDefinedKey": "1a0289a8-caf6-4c35-3562-25723d12ba1e",
+                "concept": "Bathochordaeus",
+                "height": 589,
+                "observer": "mage",
+                "width": 498,
+                "x": 296,
+                "y": 172,
+                "rejected": false,
+                "verified": false,
+                "lastUpdatedTimestamp": "2021-09-29T21:16:23.882Z",
+                "createdTimestamp": "2021-09-29T21:16:23.882Z"
+            },
+            {
+                "uuid": "636dbab7-f1de-4bf1-87ac-5939cb6ae304",
+                "userDefinedKey": "48f065fc-a95e-46e2-4f66-39743d12ba1e",
+                "concept": "Bathochordaeus",
+                "height": 41,
+                "observer": "mage",
+                "width": 74,
+                "x": 406,
+                "y": 450,
+                "rejected": false,
+                "verified": false,
+                "lastUpdatedTimestamp": "2021-09-29T21:16:23.882Z",
+                "createdTimestamp": "2021-09-29T21:16:23.882Z"
+            }
+        ]
+    },
+    {
+        "uuid": "e32a86a8-feab-44c4-b473-cf6154fc2466",
+        "url": "https://database.fathomnet.org/static/m3/framegrabs/MiniROV/images/0057/01_44_32_05.png",
+        "local_path": "fathomnet_data\\Bathochordaeus\\images\\Bathochordaeus_13.jpg",
+        "contributorsEmail": "brian@mbari.org",
+        "width": 1920,
+        "height": 1080,
+        "imagingType": "ROV",
+        "salinity": null,
+        "temperatureCelsius": null,
+        "oxygenMlL": null,
+        "latitude": null,
+        "longitude": null,
+        "sha256": "84f3d0e42e7bce589b116f4b1eb21bfc07c8269b1889522810510216c65c4c84",
+        "createdTimestamp": "2021-09-29T21:16:22.423Z",
+        "lastValidation": "2024-12-01T11:47:41.107363Z",
+        "valid": true,
+        "lastUpdatedTimestamp": "2024-12-01T11:47:41.112Z",
+        "tags": [
+            {
+                "uuid": "e5f46456-ed42-46e7-9509-b82792e99831",
+                "key": "source",
+                "value": "MBARI/VARS",
+                "mediaType": "text/plain"
+            }
+        ],
+        "boundingBoxes": [
+            {
+                "uuid": "17e66017-0186-4b80-b050-849896950d97",
+                "userDefinedKey": "5302e7a8-3830-446f-066a-26553812ba1e",
+                "concept": "Bathochordaeus",
+                "height": 185,
+                "observer": "schlin",
+                "width": 229,
+                "x": 927,
+                "y": 429,
+                "rejected": false,
+                "verified": false,
+                "lastUpdatedTimestamp": "2021-09-29T21:16:24.074Z",
+                "createdTimestamp": "2021-09-29T21:16:24.074Z"
+            }
+        ]
+    },
+    {
+        "uuid": "b358bcaf-c507-4791-98c2-fe42b0c93c66",
+        "url": "https://database.fathomnet.org/static/m3/framegrabs/MiniROV/images/0056/01_22_51_02.png",
+        "local_path": "fathomnet_data\\Bathochordaeus\\images\\Bathochordaeus_14.jpg",
+        "contributorsEmail": "brian@mbari.org",
+        "width": 1920,
+        "height": 1080,
+        "imagingType": "ROV",
+        "salinity": null,
+        "temperatureCelsius": null,
+        "oxygenMlL": null,
+        "latitude": null,
+        "longitude": null,
+        "sha256": "c324f99269c5b42ba8c2d76b77e4e193f994e37e89dc04abd262a08a6275aa13",
+        "createdTimestamp": "2021-09-29T21:16:29.105Z",
+        "lastValidation": "2024-12-01T11:47:28.146691Z",
+        "valid": true,
+        "lastUpdatedTimestamp": "2024-12-01T11:47:28.154Z",
+        "tags": [
+            {
+                "uuid": "e31298d4-8b89-42c5-9115-35936eedea83",
+                "key": "source",
+                "value": "MBARI/VARS",
+                "mediaType": "text/plain"
+            }
+        ],
+        "boundingBoxes": [
+            {
+                "uuid": "8d0cf39e-77f2-433f-9c80-751337b17537",
+                "userDefinedKey": "8dea2335-1ced-4c77-ab63-9bae3612ba1e",
+                "concept": "Bathochordaeus",
+                "height": 453,
+                "observer": "schlin",
+                "width": 677,
+                "x": 601,
+                "y": 294,
+                "rejected": false,
+                "verified": false,
+                "lastUpdatedTimestamp": "2021-09-29T21:16:30.592Z",
+                "createdTimestamp": "2021-09-29T21:16:30.592Z"
+            }
+        ]
+    },
+    {
+        "uuid": "9fae4fc2-b5d8-41e9-80e3-179acf8d714e",
+        "url": "https://database.fathomnet.org/static/m3/framegrabs/Doc%20Ricketts/images/100034/01_53_41_25.png",
+        "local_path": "fathomnet_data\\Bathochordaeus\\images\\Bathochordaeus_15.jpg",
+        "contributorsEmail": "brian@mbari.org",
+        "width": 1920,
+        "height": 1080,
+        "imagingType": "ROV",
+        "salinity": null,
+        "temperatureCelsius": null,
+        "oxygenMlL": null,
+        "latitude": null,
+        "longitude": null,
+        "sha256": "e27ad80f0b72d029b5111c561c7ee735634d0c3df25b31611ea5e92f731c68e5",
+        "createdTimestamp": "2021-09-29T21:16:29.185Z",
+        "lastValidation": "2024-12-01T11:46:51.086558Z",
+        "valid": true,
+        "lastUpdatedTimestamp": "2024-12-01T11:46:51.091Z",
+        "tags": [
+            {
+                "uuid": "684cb7a5-2735-4ee2-a0ac-2ebf4ba5b14f",
+                "key": "source",
+                "value": "MBARI/VARS",
+                "mediaType": "text/plain"
+            }
+        ],
+        "boundingBoxes": [
+            {
+                "uuid": "25167824-91df-4f11-a83f-3ca44ff4aabf",
+                "userDefinedKey": "79c80155-c7c1-4c2b-db66-3d1c3912ba1e",
+                "concept": "Bathochordaeus",
+                "height": 212,
+                "observer": "kakani.katija@gmail.com",
+                "width": 283,
+                "x": 677,
+                "y": 382,
+                "rejected": false,
+                "verified": true,
+                "lastUpdatedTimestamp": "2022-04-05T20:55:24.743Z",
+                "createdTimestamp": "2021-09-29T21:16:30.730Z"
+            },
+            {
+                "uuid": "632352aa-7441-41e9-b81f-df211be591c3",
+                "userDefinedKey": "443fe574-e4f0-40a9-0167-2f1e3912ba1e",
+                "concept": "Bathochordaeus",
+                "height": 28,
+                "observer": "kakani.katija@gmail.com",
+                "width": 28,
+                "x": 777,
+                "y": 407,
+                "rejected": false,
+                "verified": true,
+                "lastUpdatedTimestamp": "2022-04-05T20:55:24.743Z",
+                "createdTimestamp": "2021-09-29T21:16:30.730Z"
+            }
+        ]
+    },
+    {
+        "uuid": "b4cb4c2c-3ad0-49ce-9d0e-4c73306f487d",
+        "url": "https://database.fathomnet.org/static/m3/framegrabs/Doc%20Ricketts/images/100039/02_59_19_04.png",
+        "local_path": "fathomnet_data\\Bathochordaeus\\images\\Bathochordaeus_16.jpg",
+        "contributorsEmail": "brian@mbari.org",
+        "width": 1920,
+        "height": 1080,
+        "imagingType": "ROV",
+        "salinity": null,
+        "temperatureCelsius": null,
+        "oxygenMlL": null,
+        "latitude": null,
+        "longitude": null,
+        "sha256": "2dee90a6eaea733789b1927fb0ef1d1f78e1ce446cd05e9afca0341c3e74c0c0",
+        "createdTimestamp": "2021-09-29T21:16:29.267Z",
+        "lastValidation": "2024-12-01T11:46:15.420786Z",
+        "valid": true,
+        "lastUpdatedTimestamp": "2024-12-01T11:46:15.426Z",
+        "tags": [
+            {
+                "uuid": "d0d99f0e-873c-4b47-8cb5-d45f20489aa2",
+                "key": "source",
+                "value": "MBARI/VARS",
+                "mediaType": "text/plain"
+            }
+        ],
+        "boundingBoxes": [
+            {
+                "uuid": "4c331083-0fbb-4323-86d1-4bcf86135c1d",
+                "userDefinedKey": "83b4a379-aaac-40d7-d866-8e963d12ba1e",
+                "concept": "Bathochordaeus",
+                "height": 118,
+                "observer": "mage",
+                "width": 107,
+                "x": 694,
+                "y": 325,
+                "rejected": false,
+                "verified": false,
+                "lastUpdatedTimestamp": "2021-09-29T21:16:30.853Z",
+                "createdTimestamp": "2021-09-29T21:16:30.853Z"
+            },
+            {
+                "uuid": "dd5d3d34-8cfc-4809-9b8f-df1151b18da8",
+                "userDefinedKey": "e0f1372c-7b34-4dd6-7565-5f943d12ba1e",
+                "concept": "Bathochordaeus",
+                "height": 861,
+                "observer": "mage",
+                "width": 575,
+                "x": 613,
+                "y": 36,
+                "rejected": false,
+                "verified": false,
+                "lastUpdatedTimestamp": "2021-09-29T21:16:30.853Z",
+                "createdTimestamp": "2021-09-29T21:16:30.853Z"
+            }
+        ]
+    },
+    {
+        "uuid": "234dc95c-535c-45f2-8bd8-6e6afe38f675",
+        "url": "https://database.fathomnet.org/static/m3/framegrabs/Doc%20Ricketts/images/100039/02_33_21_24.png",
+        "local_path": "fathomnet_data\\Bathochordaeus\\images\\Bathochordaeus_17.jpg",
+        "contributorsEmail": "brian@mbari.org",
+        "width": 1920,
+        "height": 1080,
+        "imagingType": "ROV",
+        "salinity": null,
+        "temperatureCelsius": null,
+        "oxygenMlL": null,
+        "latitude": null,
+        "longitude": null,
+        "sha256": "1d96a0787dc2d9d21689194ecdaac9c2364efe9a7414fab617fa514e73458f09",
+        "createdTimestamp": "2021-09-29T21:16:29.328Z",
+        "lastValidation": "2024-12-01T11:45:48.480670Z",
+        "valid": true,
+        "lastUpdatedTimestamp": "2024-12-01T11:45:48.489Z",
+        "tags": [
+            {
+                "uuid": "f5b2d137-1e60-4fbf-aaaa-8ae0ac2ae0ff",
+                "key": "source",
+                "value": "MBARI/VARS",
+                "mediaType": "text/plain"
+            }
+        ],
+        "boundingBoxes": [
+            {
+                "uuid": "2143b5da-ee5f-4bbc-9ed4-e351c956c734",
+                "userDefinedKey": "e345033b-bc86-4989-6061-70503c12ba1e",
+                "concept": "Bathochordaeus",
+                "height": 45,
+                "observer": "mage",
+                "width": 59,
+                "x": 658,
+                "y": 577,
+                "rejected": false,
+                "verified": false,
+                "lastUpdatedTimestamp": "2021-09-29T21:16:30.951Z",
+                "createdTimestamp": "2021-09-29T21:16:30.951Z"
+            }
+        ]
+    },
+    {
+        "uuid": "3a86f5e2-abbf-4ef2-ab6c-c0bd9747daa1",
+        "url": "https://database.fathomnet.org/static/m3/framegrabs/Doc%20Ricketts/images/0339/00_13_33_19.png",
+        "local_path": "fathomnet_data\\Bathochordaeus\\images\\Bathochordaeus_18.jpg",
+        "contributorsEmail": "brian@mbari.org",
+        "width": 1920,
+        "height": 1080,
+        "imagingType": "ROV",
+        "salinity": null,
+        "temperatureCelsius": null,
+        "oxygenMlL": null,
+        "latitude": null,
+        "longitude": null,
+        "sha256": "4cfa2169f49a8ba3ca11ef066deb8cd9c79328ba94ffaa0b338f096e85f35723",
+        "createdTimestamp": "2021-09-29T21:16:51.484Z",
+        "lastValidation": "2024-12-01T11:41:46.604214Z",
+        "valid": true,
+        "lastUpdatedTimestamp": "2024-12-01T11:41:46.610Z",
+        "tags": [
+            {
+                "uuid": "cf963de9-2274-47dd-9192-e525c233eeb6",
+                "key": "source",
+                "value": "MBARI/VARS",
+                "mediaType": "text/plain"
+            }
+        ],
+        "boundingBoxes": [
+            {
+                "uuid": "73cd003a-f342-401e-8f68-09033f468b54",
+                "userDefinedKey": "f20dd704-66d9-4cbf-bc65-997644c3aa1e",
+                "concept": "Bathochordaeus",
+                "height": 83,
+                "observer": "schlin",
+                "width": 52,
+                "x": 934,
+                "y": 733,
+                "rejected": false,
+                "verified": false,
+                "lastUpdatedTimestamp": "2021-09-29T21:16:53.104Z",
+                "createdTimestamp": "2021-09-29T21:16:53.104Z"
+            }
+        ]
+    },
+    {
+        "uuid": "17ccde26-3272-44a1-9881-7e8ad6baee59",
+        "url": "https://database.fathomnet.org/static/m3/framegrabs/Doc%20Ricketts/images/100034/01_01_25_10.png",
+        "local_path": "fathomnet_data\\Bathochordaeus\\images\\Bathochordaeus_19.jpg",
+        "contributorsEmail": "brian@mbari.org",
+        "width": 1920,
+        "height": 1080,
+        "imagingType": "ROV",
+        "salinity": null,
+        "temperatureCelsius": null,
+        "oxygenMlL": null,
+        "latitude": null,
+        "longitude": null,
+        "sha256": "b289f675efc0a38d0cf6c5e95e145f2cc658eec0c6e2f3641367322d25643b15",
+        "createdTimestamp": "2021-09-29T21:16:51.631Z",
+        "lastValidation": "2024-12-01T11:40:41.850677Z",
+        "valid": true,
+        "lastUpdatedTimestamp": "2024-12-01T11:40:41.856Z",
+        "tags": [
+            {
+                "uuid": "b2707b5f-c6da-4a9d-ba53-b05eda84b43c",
+                "key": "source",
+                "value": "MBARI/VARS",
+                "mediaType": "text/plain"
+            }
+        ],
+        "boundingBoxes": [
+            {
+                "uuid": "80e9cd43-e798-4644-bb89-ce679b87419b",
+                "userDefinedKey": "536a9ab6-6194-4211-cb66-c2b13312ba1e",
+                "concept": "Bathochordaeus",
+                "height": 428,
+                "observer": "robs",
+                "width": 382,
+                "x": 612,
+                "y": 371,
+                "rejected": false,
+                "verified": false,
+                "lastUpdatedTimestamp": "2021-09-29T21:16:53.298Z",
+                "createdTimestamp": "2021-09-29T21:16:53.298Z"
+            },
+            {
+                "uuid": "95eac1a0-3e5f-4b5f-8982-fac8a0787313",
+                "userDefinedKey": "dc65ea58-4e69-4c5e-0667-e0b33312ba1e",
+                "concept": "Bathochordaeus",
+                "height": 84,
+                "observer": "robs",
+                "width": 51,
+                "x": 833,
+                "y": 584,
+                "rejected": false,
+                "verified": false,
+                "lastUpdatedTimestamp": "2021-09-29T21:16:53.298Z",
+                "createdTimestamp": "2021-09-29T21:16:53.298Z"
+            }
+        ]
+    },
+    {
+        "uuid": "3ddb6ee4-9722-43c6-8934-614446b4948e",
+        "url": "https://database.fathomnet.org/static/m3/framegrabs/Doc%20Ricketts/images/100039/02_58_58_24.png",
+        "local_path": "fathomnet_data\\Bathochordaeus\\images\\Bathochordaeus_20.jpg",
+        "contributorsEmail": "brian@mbari.org",
+        "width": 1920,
+        "height": 1080,
+        "imagingType": "ROV",
+        "salinity": null,
+        "temperatureCelsius": null,
+        "oxygenMlL": null,
+        "latitude": null,
+        "longitude": null,
+        "sha256": "fd996adc827d9ca7dae7dcfa9e328a86ec2a0550812d2203141c5135606066b5",
+        "createdTimestamp": "2021-09-29T21:16:59.778Z",
+        "lastValidation": "2024-12-01T11:39:46.653961Z",
+        "valid": true,
+        "lastUpdatedTimestamp": "2024-12-01T11:39:46.658Z",
+        "tags": [
+            {
+                "uuid": "4ebf6682-3bde-436e-8b69-fe982277176b",
+                "key": "source",
+                "value": "MBARI/VARS",
+                "mediaType": "text/plain"
+            }
+        ],
+        "boundingBoxes": [
+            {
+                "uuid": "10b91b3f-55e6-4c26-909b-e0b96e74c786",
+                "userDefinedKey": "a8a5cb83-3f2e-4a95-8763-23de5ec3aa1e",
+                "concept": "Bathochordaeus",
+                "height": 127,
+                "observer": "mage",
+                "width": 98,
+                "x": 1103,
+                "y": 196,
+                "rejected": false,
+                "verified": false,
+                "lastUpdatedTimestamp": "2021-09-29T21:17:01.447Z",
+                "createdTimestamp": "2021-09-29T21:17:01.447Z"
+            }
+        ]
+    },
+    {
+        "uuid": "ccfb2d64-8652-48f9-9c87-98554e181903",
+        "url": "https://database.fathomnet.org/static/m3/framegrabs/Doc%20Ricketts/images/100039/02_47_12_00.png",
+        "local_path": "fathomnet_data\\Bathochordaeus\\images\\Bathochordaeus_21.jpg",
+        "contributorsEmail": "brian@mbari.org",
+        "width": 1920,
+        "height": 1080,
+        "imagingType": "ROV",
+        "salinity": null,
+        "temperatureCelsius": null,
+        "oxygenMlL": null,
+        "latitude": null,
+        "longitude": null,
+        "sha256": "bab5dd53e80257667b3e190de35466aff07e94c7874f191bfea739d4879921b4",
+        "createdTimestamp": "2021-09-29T21:17:08.461Z",
+        "lastValidation": "2024-12-01T11:38:27.815287Z",
+        "valid": true,
+        "lastUpdatedTimestamp": "2024-12-01T11:38:27.819Z",
+        "tags": [
+            {
+                "uuid": "8ad0abba-3993-45d6-821e-c3695c1433c5",
+                "key": "source",
+                "value": "MBARI/VARS",
+                "mediaType": "text/plain"
+            }
+        ],
+        "boundingBoxes": [
+            {
+                "uuid": "f10dcbef-a078-4155-b941-e8cc1f4e580b",
+                "userDefinedKey": "7eb7df76-3c0b-482c-c765-d45c8c12ba1e",
+                "concept": "Bathochordaeus",
+                "height": 82,
+                "observer": "expert-observer",
+                "width": 80,
+                "x": 441,
+                "y": 236,
+                "rejected": false,
+                "verified": false,
+                "lastUpdatedTimestamp": "2021-09-29T21:17:09.970Z",
+                "createdTimestamp": "2021-09-29T21:17:09.970Z"
+            },
+            {
+                "uuid": "1eab8a69-727e-4ed3-91e1-16973dde23f1",
+                "userDefinedKey": "3ba056c8-af51-4ad6-f266-e4d33c12ba1e",
+                "concept": "Bathochordaeus",
+                "height": 108,
+                "observer": "mage",
+                "width": 97,
+                "x": 888,
+                "y": 501,
+                "rejected": false,
+                "verified": false,
+                "lastUpdatedTimestamp": "2021-09-29T21:17:09.970Z",
+                "createdTimestamp": "2021-09-29T21:17:09.970Z"
+            }
+        ]
+    },
+    {
+        "uuid": "7e464048-14f4-40dc-91e2-c804341a5dd8",
+        "url": "https://database.fathomnet.org/static/m3/framegrabs/Doc%20Ricketts/images/100036/04_29_46_04.png",
+        "local_path": "fathomnet_data\\Bathochordaeus\\images\\Bathochordaeus_22.jpg",
+        "contributorsEmail": "brian@mbari.org",
+        "width": 1920,
+        "height": 1080,
+        "imagingType": "ROV",
+        "salinity": null,
+        "temperatureCelsius": null,
+        "oxygenMlL": null,
+        "latitude": null,
+        "longitude": null,
+        "sha256": "8626ce7e7a6e15623adf23a86575a00d302b7c88bec0bd01e0e7ac8491209c49",
+        "createdTimestamp": "2021-09-29T21:17:08.611Z",
+        "lastValidation": "2024-12-01T11:37:30.917178Z",
+        "valid": true,
+        "lastUpdatedTimestamp": "2024-12-01T11:37:30.923Z",
+        "tags": [
+            {
+                "uuid": "c083ec5a-f387-44eb-b580-ca75593246e5",
+                "key": "source",
+                "value": "MBARI/VARS",
+                "mediaType": "text/plain"
+            }
+        ],
+        "boundingBoxes": [
+            {
+                "uuid": "3cf6b9a1-e313-4488-946c-a3314d57b8c7",
+                "userDefinedKey": "a317e204-f9a3-4927-bf66-92534412ba1e",
+                "concept": "Bathochordaeus",
+                "height": 557,
+                "observer": "kakani.katija@gmail.com",
+                "width": 490,
+                "x": 147,
+                "y": 447,
+                "rejected": false,
+                "verified": true,
+                "lastUpdatedTimestamp": "2022-04-05T20:56:51.148Z",
+                "createdTimestamp": "2021-09-29T21:17:10.170Z"
+            }
+        ]
+    },
+    {
+        "uuid": "2aaaa984-19f9-4f3c-a37c-ae72c69f3158",
+        "url": "https://database.fathomnet.org/static/m3/framegrabs/Doc%20Ricketts/images/100034/01_53_33_25.png",
+        "local_path": "fathomnet_data\\Bathochordaeus\\images\\Bathochordaeus_23.jpg",
+        "contributorsEmail": "brian@mbari.org",
+        "width": 1920,
+        "height": 1080,
+        "imagingType": "ROV",
+        "salinity": null,
+        "temperatureCelsius": null,
+        "oxygenMlL": null,
+        "latitude": null,
+        "longitude": null,
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "createdTimestamp": "2021-09-29T21:17:08.626Z",
+        "lastValidation": "2024-12-01T11:37:22.991416Z",
+        "valid": true,
+        "lastUpdatedTimestamp": "2024-12-01T11:37:22.996Z",
+        "tags": [
+            {
+                "uuid": "efede8d2-0e88-4338-a23f-dbc1b0cad4f0",
+                "key": "source",
+                "value": "MBARI/VARS",
+                "mediaType": "text/plain"
+            }
+        ],
+        "boundingBoxes": [
+            {
+                "uuid": "906131e1-5f20-402e-a380-8390996bfca7",
+                "userDefinedKey": "fec921fd-f46a-4e72-ff6e-6e6157c3aa1e",
+                "concept": "Bathochordaeus",
+                "height": 59,
+                "observer": "robs",
+                "width": 77,
+                "x": 1086,
+                "y": 687,
+                "rejected": false,
+                "verified": false,
+                "lastUpdatedTimestamp": "2021-09-29T21:17:10.189Z",
+                "createdTimestamp": "2021-09-29T21:17:10.189Z"
+            }
+        ]
+    },
+    {
+        "uuid": "8f05cc63-b6b6-4eec-93cb-7a3033a0dfde",
+        "url": "https://database.fathomnet.org/static/m3/framegrabs/Doc%20Ricketts/images/100039/02_58_31_01.png",
+        "local_path": "fathomnet_data\\Bathochordaeus\\images\\Bathochordaeus_24.jpg",
+        "contributorsEmail": "brian@mbari.org",
+        "width": 1920,
+        "height": 1080,
+        "imagingType": "ROV",
+        "salinity": null,
+        "temperatureCelsius": null,
+        "oxygenMlL": null,
+        "latitude": null,
+        "longitude": null,
+        "sha256": "3104cfcd4e1dc15f6755ce1f98856a5c8f67e8a5ec7372ba2138cb997919ba3a",
+        "createdTimestamp": "2021-09-29T21:17:17.582Z",
+        "lastValidation": "2024-12-01T11:35:12.870092Z",
+        "valid": true,
+        "lastUpdatedTimestamp": "2024-12-01T11:35:12.875Z",
+        "tags": [
+            {
+                "uuid": "86123cff-65a4-46d1-94f7-5aaf642a0785",
+                "key": "source",
+                "value": "MBARI/VARS",
+                "mediaType": "text/plain"
+            }
+        ],
+        "boundingBoxes": [
+            {
+                "uuid": "813d0af7-7c73-439f-aadc-bd3c81f8428b",
+                "userDefinedKey": "22585248-320f-490d-686d-a0b75ec3aa1e",
+                "concept": "Bathochordaeus",
+                "height": 55,
+                "observer": "kakani.katija@gmail.com",
+                "width": 79,
+                "x": 915,
+                "y": 988,
+                "rejected": false,
+                "verified": true,
+                "lastUpdatedTimestamp": "2022-04-05T21:07:25.510Z",
+                "createdTimestamp": "2021-09-29T21:17:19.163Z"
+            }
+        ]
+    },
+    {
+        "uuid": "a1b4d4ad-5091-42cb-a93f-43d145d966a4",
+        "url": "https://database.fathomnet.org/static/m3/framegrabs/Doc%20Ricketts/images/100036/04_29_42_04.png",
+        "local_path": "fathomnet_data\\Bathochordaeus\\images\\Bathochordaeus_25.jpg",
+        "contributorsEmail": "brian@mbari.org",
+        "width": 1920,
+        "height": 1080,
+        "imagingType": "ROV",
+        "salinity": null,
+        "temperatureCelsius": null,
+        "oxygenMlL": null,
+        "latitude": null,
+        "longitude": null,
+        "sha256": "df39633f8f714b2f51a5a16ef626b4e7ad8798a28c757f170e674a27f04c9468",
+        "createdTimestamp": "2021-09-29T21:17:26.908Z",
+        "lastValidation": "2024-12-01T11:34:57.926093Z",
+        "valid": true,
+        "lastUpdatedTimestamp": "2024-12-01T11:34:57.930Z",
+        "tags": [
+            {
+                "uuid": "fff0b31a-f0c1-417d-a011-7b2ce81e8be6",
+                "key": "source",
+                "value": "MBARI/VARS",
+                "mediaType": "text/plain"
+            }
+        ],
+        "boundingBoxes": [
+            {
+                "uuid": "764cf6ab-98de-49e6-86f6-414512a3d077",
+                "userDefinedKey": "514de9c8-92a6-4303-1d69-48aa9412ba1e",
+                "concept": "Aulosphaera",
+                "height": 30,
+                "observer": "expert-observer",
+                "width": 25,
+                "x": 382,
+                "y": 396,
+                "rejected": false,
+                "verified": false,
+                "lastUpdatedTimestamp": "2021-09-29T21:17:28.593Z",
+                "createdTimestamp": "2021-09-29T21:17:28.593Z"
+            },
+            {
+                "uuid": "61bb4b4c-0fc2-42e4-aeb7-645b43396e34",
+                "userDefinedKey": "11c14b55-dc3a-4a17-ce62-2b514412ba1e",
+                "concept": "Bathochordaeus",
+                "height": 518,
+                "observer": "sbush",
+                "width": 360,
+                "x": 122,
+                "y": 341,
+                "rejected": false,
+                "verified": false,
+                "lastUpdatedTimestamp": "2021-09-29T21:17:28.593Z",
+                "createdTimestamp": "2021-09-29T21:17:28.593Z"
+            }
+        ]
+    },
+    {
+        "uuid": "950a12a7-657c-45b1-8ca9-900b5623db25",
+        "url": "https://database.fathomnet.org/static/m3/framegrabs/Doc%20Ricketts/images/100039/02_06_02_02.png",
+        "local_path": "fathomnet_data\\Bathochordaeus\\images\\Bathochordaeus_26.jpg",
+        "contributorsEmail": "brian@mbari.org",
+        "width": 1920,
+        "height": 1080,
+        "imagingType": "ROV",
+        "salinity": null,
+        "temperatureCelsius": null,
+        "oxygenMlL": null,
+        "latitude": null,
+        "longitude": null,
+        "sha256": "bfc7542216189717d3ef3e667760ee714a7bc29eefaa3be6c7a733f3d94c4749",
+        "createdTimestamp": "2021-09-29T21:17:26.921Z",
+        "lastValidation": "2024-12-01T11:34:49.540718Z",
+        "valid": true,
+        "lastUpdatedTimestamp": "2024-12-01T11:34:49.545Z",
+        "tags": [
+            {
+                "uuid": "5286e16e-65f2-4d4d-be2f-7adfd6a00abb",
+                "key": "source",
+                "value": "MBARI/VARS",
+                "mediaType": "text/plain"
+            }
+        ],
+        "boundingBoxes": [
+            {
+                "uuid": "9e3e2fba-687f-452a-8b5c-bf6a892157f3",
+                "userDefinedKey": "4c030d0f-9696-4819-5267-0eed3912ba1e",
+                "concept": "Bathochordaeus",
+                "height": 161,
+                "observer": "mage",
+                "width": 169,
+                "x": 967,
+                "y": 417,
+                "rejected": false,
+                "verified": false,
+                "lastUpdatedTimestamp": "2021-09-29T21:17:28.607Z",
+                "createdTimestamp": "2021-09-29T21:17:28.607Z"
+            }
+        ]
+    },
+    {
+        "uuid": "1115f53a-3850-449c-8bfc-1d601691f485",
+        "url": "https://database.fathomnet.org/static/m3/framegrabs/Doc%20Ricketts/images/100039/02_47_10_15.png",
+        "local_path": "fathomnet_data\\Bathochordaeus\\images\\Bathochordaeus_27.jpg",
+        "contributorsEmail": "brian@mbari.org",
+        "width": 1920,
+        "height": 1080,
+        "imagingType": "ROV",
+        "salinity": null,
+        "temperatureCelsius": null,
+        "oxygenMlL": null,
+        "latitude": null,
+        "longitude": null,
+        "sha256": "448023c958db082329f7fb19d1ff27f18b29432c4b41238c0e53527bd8f48407",
+        "createdTimestamp": "2021-09-29T21:17:27.033Z",
+        "lastValidation": "2024-12-01T11:34:03.505837Z",
+        "valid": true,
+        "lastUpdatedTimestamp": "2024-12-01T11:34:03.514Z",
+        "tags": [
+            {
+                "uuid": "96ffe19a-d949-468e-8976-2cfea48f2555",
+                "key": "source",
+                "value": "MBARI/VARS",
+                "mediaType": "text/plain"
+            }
+        ],
+        "boundingBoxes": [
+            {
+                "uuid": "335ed852-7d50-42cf-9745-d3b71352f922",
+                "userDefinedKey": "2e71f335-619a-49bf-bb66-f2d13c12ba1e",
+                "concept": "Bathochordaeus",
+                "height": 75,
+                "observer": "mage",
+                "width": 65,
+                "x": 958,
+                "y": 706,
+                "rejected": false,
+                "verified": false,
+                "lastUpdatedTimestamp": "2021-09-29T21:17:28.782Z",
+                "createdTimestamp": "2021-09-29T21:17:28.782Z"
+            }
+        ]
+    },
+    {
+        "uuid": "70d45284-b727-462b-a7d2-b6141d1305ee",
+        "url": "https://database.fathomnet.org/static/m3/framegrabs/Doc%20Ricketts/images/100036/04_19_35_07.png",
+        "local_path": "fathomnet_data\\Bathochordaeus\\images\\Bathochordaeus_28.jpg",
+        "contributorsEmail": "brian@mbari.org",
+        "width": 1920,
+        "height": 1080,
+        "imagingType": "ROV",
+        "salinity": null,
+        "temperatureCelsius": null,
+        "oxygenMlL": null,
+        "latitude": null,
+        "longitude": null,
+        "sha256": "cf3e423a62fe62a6c7ab7992752c93b5cccc3b7a39bc48feeec1fa98eaf49021",
+        "createdTimestamp": "2021-09-29T21:17:27.035Z",
+        "lastValidation": "2024-12-01T11:34:00.825035Z",
+        "valid": true,
+        "lastUpdatedTimestamp": "2024-12-01T11:34:00.830Z",
+        "tags": [
+            {
+                "uuid": "46ff9bc5-72a4-4fe9-9382-b0959f6aad3c",
+                "key": "source",
+                "value": "MBARI/VARS",
+                "mediaType": "text/plain"
+            }
+        ],
+        "boundingBoxes": [
+            {
+                "uuid": "8dd5b328-3cc6-4e03-a8a1-6239512b22b2",
+                "userDefinedKey": "180fc02c-a5af-419b-e96b-1fd14212ba1e",
+                "concept": "Bathochordaeus",
+                "height": 166,
+                "observer": "sbush",
+                "width": 167,
+                "x": 1364,
+                "y": 228,
+                "rejected": false,
+                "verified": false,
+                "lastUpdatedTimestamp": "2021-09-29T21:17:28.783Z",
+                "createdTimestamp": "2021-09-29T21:17:28.783Z"
+            }
+        ]
+    },
+    {
+        "uuid": "00df796f-ba9c-4c3a-b31d-d2ec46052883",
+        "url": "https://database.fathomnet.org/static/m3/framegrabs/Doc%20Ricketts/images/100039/02_59_00_27.png",
+        "local_path": "fathomnet_data\\Bathochordaeus\\images\\Bathochordaeus_29.jpg",
+        "contributorsEmail": "brian@mbari.org",
+        "width": 1920,
+        "height": 1080,
+        "imagingType": "ROV",
+        "salinity": null,
+        "temperatureCelsius": null,
+        "oxygenMlL": null,
+        "latitude": null,
+        "longitude": null,
+        "sha256": "77f1f5d19dbec11149efcf520cb455e8705aa6c7aca3616d272effe08545cb7a",
+        "createdTimestamp": "2021-09-29T21:17:37.435Z",
+        "lastValidation": "2024-12-01T11:33:13.639943Z",
+        "valid": true,
+        "lastUpdatedTimestamp": "2024-12-01T11:33:13.652Z",
+        "tags": [
+            {
+                "uuid": "f23d9d2e-82b2-4fbb-8199-8e59a10a3240",
+                "key": "source",
+                "value": "MBARI/VARS",
+                "mediaType": "text/plain"
+            }
+        ],
+        "boundingBoxes": [
+            {
+                "uuid": "13989a6b-8ee3-4a82-aed2-73f47f33219b",
+                "userDefinedKey": "2d7f069e-6b3c-4588-bb67-3fe25ec3aa1e",
+                "concept": "Bathochordaeus",
+                "height": 172,
+                "observer": "mage",
+                "width": 77,
+                "x": 1070,
+                "y": 311,
+                "rejected": false,
+                "verified": false,
+                "lastUpdatedTimestamp": "2021-09-29T21:17:39.260Z",
+                "createdTimestamp": "2021-09-29T21:17:39.260Z"
+            }
+        ]
+    },
+    {
+        "uuid": "f53d8f3f-a653-411c-9735-d7070693ad19",
+        "url": "https://database.fathomnet.org/static/m3/framegrabs/Doc%20Ricketts/images/100036/04_32_56_26.png",
+        "local_path": "fathomnet_data\\Bathochordaeus\\images\\Bathochordaeus_30.jpg",
+        "contributorsEmail": "brian@mbari.org",
+        "width": 1920,
+        "height": 1080,
+        "imagingType": "ROV",
+        "salinity": null,
+        "temperatureCelsius": null,
+        "oxygenMlL": null,
+        "latitude": null,
+        "longitude": null,
+        "sha256": "fd05bdf6e9d004159722b3016b9b139b96828b4a6d052944581ae59453777c71",
+        "createdTimestamp": "2021-09-29T21:17:37.538Z",
+        "lastValidation": "2024-12-01T11:32:37.611636Z",
+        "valid": true,
+        "lastUpdatedTimestamp": "2024-12-01T11:32:37.616Z",
+        "tags": [
+            {
+                "uuid": "a8b7af5b-7b84-4226-8daf-9f40621825ca",
+                "key": "source",
+                "value": "MBARI/VARS",
+                "mediaType": "text/plain"
+            }
+        ],
+        "boundingBoxes": [
+            {
+                "uuid": "f02dc80a-ce26-4e3f-a6b8-244fb30f4564",
+                "userDefinedKey": "537e61d8-2c2a-4d8c-e86b-58c466c3aa1e",
+                "concept": "Bathochordaeus",
+                "height": 207,
+                "observer": "sbush",
+                "width": 91,
+                "x": 478,
+                "y": 599,
+                "rejected": false,
+                "verified": false,
+                "lastUpdatedTimestamp": "2021-09-29T21:17:39.393Z",
+                "createdTimestamp": "2021-09-29T21:17:39.393Z"
+            },
+            {
+                "uuid": "694b3377-1ee1-4741-92cb-feaeaabb86e4",
+                "userDefinedKey": "0daf30c6-fd85-4746-bc6e-08c666c3aa1e",
+                "concept": "Aulosphaera",
+                "height": 44,
+                "observer": "expert-observer",
+                "width": 57,
+                "x": 580,
+                "y": 633,
+                "rejected": false,
+                "verified": false,
+                "lastUpdatedTimestamp": "2021-09-29T21:17:39.393Z",
+                "createdTimestamp": "2021-09-29T21:17:39.393Z"
+            }
+        ]
+    },
+    {
+        "uuid": "1d87d429-5f38-495d-a793-85853b6c895a",
+        "url": "https://database.fathomnet.org/static/m3/framegrabs/Doc%20Ricketts/images/100039/02_06_06_01.png",
+        "local_path": "fathomnet_data\\Bathochordaeus\\images\\Bathochordaeus_31.jpg",
+        "contributorsEmail": "brian@mbari.org",
+        "width": 1920,
+        "height": 1080,
+        "imagingType": "ROV",
+        "salinity": null,
+        "temperatureCelsius": null,
+        "oxygenMlL": null,
+        "latitude": null,
+        "longitude": null,
+        "sha256": "81c8dda2c13592a7e8a9b0aed0c3d060cfbe2b983e46dfd10a7baf7d905c0c17",
+        "createdTimestamp": "2021-09-29T21:17:37.602Z",
+        "lastValidation": "2024-12-01T11:32:12.686972Z",
+        "valid": true,
+        "lastUpdatedTimestamp": "2024-12-01T11:32:12.692Z",
+        "tags": [
+            {
+                "uuid": "63f9315a-1010-46f6-b2aa-df160e3a60ea",
+                "key": "source",
+                "value": "MBARI/VARS",
+                "mediaType": "text/plain"
+            }
+        ],
+        "boundingBoxes": [
+            {
+                "uuid": "8aeaeeb6-c0f3-482a-9c5c-247d5656e084",
+                "userDefinedKey": "b4b44e53-5a7d-495b-8362-e2f23912ba1e",
+                "concept": "Bathochordaeus",
+                "height": 211,
+                "observer": "mage",
+                "width": 230,
+                "x": 909,
+                "y": 332,
+                "rejected": false,
+                "verified": false,
+                "lastUpdatedTimestamp": "2021-09-29T21:17:39.557Z",
+                "createdTimestamp": "2021-09-29T21:17:39.557Z"
+            }
+        ]
+    },
+    {
+        "uuid": "8b1cea12-10b9-4681-945a-e5a5c1a2c35a",
+        "url": "https://database.fathomnet.org/static/m3/framegrabs/Doc%20Ricketts/images/100039/02_12_06_10.png",
+        "local_path": "fathomnet_data\\Bathochordaeus\\images\\Bathochordaeus_32.jpg",
+        "contributorsEmail": "brian@mbari.org",
+        "width": 1920,
+        "height": 1080,
+        "imagingType": "ROV",
+        "salinity": null,
+        "temperatureCelsius": null,
+        "oxygenMlL": null,
+        "latitude": null,
+        "longitude": null,
+        "sha256": "35eab461506bc0fe68fce625994891f1d92d821ad2e67dcedc26ad8fff2e2812",
+        "createdTimestamp": "2021-09-29T21:17:37.649Z",
+        "lastValidation": "2024-12-01T11:31:41.072933Z",
+        "valid": true,
+        "lastUpdatedTimestamp": "2024-12-01T11:31:41.078Z",
+        "tags": [
+            {
+                "uuid": "13ee8fdc-041d-4a25-9d89-761dfca9f6a6",
+                "key": "source",
+                "value": "MBARI/VARS",
+                "mediaType": "text/plain"
+            }
+        ],
+        "boundingBoxes": [
+            {
+                "uuid": "250426d0-3153-4a48-866c-f346f1e94cae",
+                "userDefinedKey": "d441da46-0e64-4739-5a63-9ca43a12ba1e",
+                "concept": "Bathochordaeus",
+                "height": 88,
+                "observer": "mage",
+                "width": 111,
+                "x": 598,
+                "y": 506,
+                "rejected": false,
+                "verified": false,
+                "lastUpdatedTimestamp": "2021-09-29T21:17:39.683Z",
+                "createdTimestamp": "2021-09-29T21:17:39.683Z"
+            }
+        ]
+    },
+    {
+        "uuid": "fbe64872-ea79-481c-8f87-0b2caaaa0d7a",
+        "url": "https://database.fathomnet.org/static/m3/framegrabs/Doc%20Ricketts/images/100039/02_30_38_23.png",
+        "local_path": "fathomnet_data\\Bathochordaeus\\images\\Bathochordaeus_33.jpg",
+        "contributorsEmail": "brian@mbari.org",
+        "width": 1920,
+        "height": 1080,
+        "imagingType": "ROV",
+        "salinity": null,
+        "temperatureCelsius": null,
+        "oxygenMlL": null,
+        "latitude": null,
+        "longitude": null,
+        "sha256": "4902e92d3370f7c69180295f2e6b9980e0bdc5d5b0dcc3810545e5ae0709fb56",
+        "createdTimestamp": "2021-09-29T21:17:48.066Z",
+        "lastValidation": "2024-12-01T11:30:53.512047Z",
+        "valid": true,
+        "lastUpdatedTimestamp": "2024-12-01T11:30:53.517Z",
+        "tags": [
+            {
+                "uuid": "a7d6bc0b-4258-4714-a533-8cb87df3e362",
+                "key": "source",
+                "value": "MBARI/VARS",
+                "mediaType": "text/plain"
+            }
+        ],
+        "boundingBoxes": [
+            {
+                "uuid": "0f459e4f-c519-4b57-9ab6-8c9822919be6",
+                "userDefinedKey": "0784528c-11d2-4a20-9167-2c283c12ba1e",
+                "concept": "Bathochordaeus",
+                "height": 66,
+                "observer": "mage",
+                "width": 83,
+                "x": 1035,
+                "y": 656,
+                "rejected": false,
+                "verified": false,
+                "lastUpdatedTimestamp": "2021-09-29T21:17:49.565Z",
+                "createdTimestamp": "2021-09-29T21:17:49.565Z"
+            }
+        ]
+    },
+    {
+        "uuid": "e0977d9a-a473-40c8-817b-d29400e478c2",
+        "url": "https://database.fathomnet.org/static/m3/framegrabs/Doc%20Ricketts/images/100036/04_33_23_09.png",
+        "local_path": "fathomnet_data\\Bathochordaeus\\images\\Bathochordaeus_34.jpg",
+        "contributorsEmail": "brian@mbari.org",
+        "width": 1920,
+        "height": 1080,
+        "imagingType": "ROV",
+        "salinity": null,
+        "temperatureCelsius": null,
+        "oxygenMlL": null,
+        "latitude": null,
+        "longitude": null,
+        "sha256": "330714ddd583df3c472952503ab9db0a17b2f0120b635d63982a6feed41814a9",
+        "createdTimestamp": "2021-09-29T21:17:48.079Z",
+        "lastValidation": "2024-12-01T11:30:46.458156Z",
+        "valid": true,
+        "lastUpdatedTimestamp": "2024-12-01T11:30:46.467Z",
+        "tags": [
+            {
+                "uuid": "1c4b4042-45b5-48ac-9e35-dd3d965e74ad",
+                "key": "source",
+                "value": "MBARI/VARS",
+                "mediaType": "text/plain"
+            }
+        ],
+        "boundingBoxes": [
+            {
+                "uuid": "c53923ce-f173-4b96-8265-dd78e2d2f25a",
+                "userDefinedKey": "f1f87a4c-04b6-46a4-c16c-570e9512ba1e",
+                "concept": "Aulosphaera",
+                "height": 31,
+                "observer": "kakani.katija@gmail.com",
+                "width": 27,
+                "x": 356,
+                "y": 859,
+                "rejected": false,
+                "verified": true,
+                "lastUpdatedTimestamp": "2022-04-05T20:59:30.301Z",
+                "createdTimestamp": "2021-09-29T21:17:49.585Z"
+            },
+            {
+                "uuid": "2ae42a19-6bcd-463c-a39a-ae44e5f4f15f",
+                "userDefinedKey": "2e2b8325-5df3-464a-6c68-00b74412ba1e",
+                "concept": "Bathochordaeus",
+                "height": 65,
+                "observer": "kakani.katija@gmail.com",
+                "width": 142,
+                "x": 458,
+                "y": 547,
+                "rejected": false,
+                "verified": true,
+                "lastUpdatedTimestamp": "2022-04-05T20:59:30.299Z",
+                "createdTimestamp": "2021-09-29T21:17:49.585Z"
+            },
+            {
+                "uuid": "42d89d65-04eb-485d-a25f-91d09b7c56ab",
+                "userDefinedKey": "adda692d-1c5b-4cb6-d86e-a7b44412ba1e",
+                "concept": "Bathochordaeus",
+                "height": 708,
+                "observer": "kakani.katija@gmail.com",
+                "width": 682,
+                "x": 201,
+                "y": 226,
+                "rejected": false,
+                "verified": true,
+                "lastUpdatedTimestamp": "2022-04-05T20:59:30.299Z",
+                "createdTimestamp": "2021-09-29T21:17:49.585Z"
+            }
+        ]
+    },
+    {
+        "uuid": "82a47a6d-5867-45a0-897c-3bb4e458838d",
+        "url": "https://database.fathomnet.org/static/m3/framegrabs/Doc%20Ricketts/images/100039/02_40_30_02.png",
+        "local_path": "fathomnet_data\\Bathochordaeus\\images\\Bathochordaeus_35.jpg",
+        "contributorsEmail": "brian@mbari.org",
+        "width": 1920,
+        "height": 1080,
+        "imagingType": "ROV",
+        "salinity": null,
+        "temperatureCelsius": null,
+        "oxygenMlL": null,
+        "latitude": null,
+        "longitude": null,
+        "sha256": "42ac85aedcbf80e56e04b08f155ef74ba6b6a9d06ec9e526b7fac32b2026ecca",
+        "createdTimestamp": "2021-09-29T21:17:58.683Z",
+        "lastValidation": "2024-12-01T11:28:15.600980Z",
+        "valid": true,
+        "lastUpdatedTimestamp": "2024-12-01T11:28:15.605Z",
+        "tags": [
+            {
+                "uuid": "edd35327-7cde-441c-9df8-b5bf1b33a6b8",
+                "key": "source",
+                "value": "MBARI/VARS",
+                "mediaType": "text/plain"
+            }
+        ],
+        "boundingBoxes": [
+            {
+                "uuid": "9fa4232a-f612-4f01-823e-40e52b87e1e8",
+                "userDefinedKey": "21225657-33e5-4a7f-d062-fa853c12ba1e",
+                "concept": "Bathochordaeus",
+                "height": 262,
+                "observer": "mage",
+                "width": 458,
+                "x": 547,
+                "y": 58,
+                "rejected": false,
+                "verified": false,
+                "lastUpdatedTimestamp": "2021-09-29T21:18:00.413Z",
+                "createdTimestamp": "2021-09-29T21:18:00.413Z"
+            }
+        ]
+    },
+    {
+        "uuid": "6dadab7b-75f8-4c9f-b1a9-3210030a4c08",
+        "url": "https://database.fathomnet.org/static/m3/framegrabs/Doc%20Ricketts/images/0338/00_08_38_17.png",
+        "local_path": "fathomnet_data\\Bathochordaeus\\images\\Bathochordaeus_36.jpg",
+        "contributorsEmail": "brian@mbari.org",
+        "width": 1920,
+        "height": 1079,
+        "imagingType": "ROV",
+        "salinity": null,
+        "temperatureCelsius": null,
+        "oxygenMlL": null,
+        "latitude": null,
+        "longitude": null,
+        "sha256": "6b1b22e1dffb1471e74cc616fa1d71e2f561136d4c164e960c39cbf88ac17892",
+        "createdTimestamp": "2021-09-29T21:18:09.306Z",
+        "lastValidation": "2024-12-01T11:27:35.486027Z",
+        "valid": true,
+        "lastUpdatedTimestamp": "2024-12-01T11:27:35.491Z",
+        "tags": [
+            {
+                "uuid": "13a75a1f-9644-4798-9741-89f199919bea",
+                "key": "source",
+                "value": "MBARI/VARS",
+                "mediaType": "text/plain"
+            }
+        ],
+        "boundingBoxes": [
+            {
+                "uuid": "9c40d2f1-63f6-4a2f-8719-d16422605e9b",
+                "userDefinedKey": "0bddd180-45f6-4057-626b-237843c3aa1e",
+                "concept": "Bathochordaeus",
+                "height": 81,
+                "observer": "master@mbari.org",
+                "width": 31,
+                "x": 1364,
+                "y": 391,
+                "rejected": false,
+                "verified": false,
+                "lastUpdatedTimestamp": "2021-11-01T17:35:08.687Z",
+                "createdTimestamp": "2021-09-29T21:18:10.922Z"
+            }
+        ]
+    },
+    {
+        "uuid": "1ddac192-c1bb-4328-997e-2f0bbe8613ba",
+        "url": "https://database.fathomnet.org/static/m3/framegrabs/Doc%20Ricketts/images/100036/04_19_55_07.png",
+        "local_path": "fathomnet_data\\Bathochordaeus\\images\\Bathochordaeus_37.jpg",
+        "contributorsEmail": "brian@mbari.org",
+        "width": 1920,
+        "height": 1080,
+        "imagingType": "ROV",
+        "salinity": null,
+        "temperatureCelsius": null,
+        "oxygenMlL": null,
+        "latitude": null,
+        "longitude": null,
+        "sha256": "422bc65eecc59d4186baa72ca33a592cdae888dd0f883d379c39fd09e54ee305",
+        "createdTimestamp": "2021-09-29T21:18:32.142Z",
+        "lastValidation": "2024-12-01T11:24:06.268434Z",
+        "valid": true,
+        "lastUpdatedTimestamp": "2024-12-01T11:24:06.272Z",
+        "tags": [
+            {
+                "uuid": "af381139-2754-43b0-9241-95c538154883",
+                "key": "source",
+                "value": "MBARI/VARS",
+                "mediaType": "text/plain"
+            }
+        ],
+        "boundingBoxes": [
+            {
+                "uuid": "53459bb1-6de5-483d-a934-fec1b5ec935e",
+                "userDefinedKey": "8ed52551-0540-4f28-f266-c5d74212ba1e",
+                "concept": "Bathochordaeus",
+                "height": 103,
+                "observer": "sbush",
+                "width": 74,
+                "x": 963,
+                "y": 479,
+                "rejected": false,
+                "verified": false,
+                "lastUpdatedTimestamp": "2021-09-29T21:18:33.759Z",
+                "createdTimestamp": "2021-09-29T21:18:33.759Z"
+            },
+            {
+                "uuid": "9967e2bc-4aab-416c-8e63-e61427b09bea",
+                "userDefinedKey": "0a0b5565-7f0e-48cc-ca6b-aed54212ba1e",
+                "concept": "Bathochordaeus",
+                "height": 222,
+                "observer": "sbush",
+                "width": 340,
+                "x": 863,
+                "y": 433,
+                "rejected": false,
+                "verified": false,
+                "lastUpdatedTimestamp": "2021-09-29T21:18:33.759Z",
+                "createdTimestamp": "2021-09-29T21:18:33.759Z"
+            }
+        ]
+    },
+    {
+        "uuid": "a9e6029f-c9a8-4e11-aa9c-96f5060a4466",
+        "url": "https://database.fathomnet.org/static/m3/framegrabs/Doc%20Ricketts/images/100036/04_25_24_03.png",
+        "local_path": "fathomnet_data\\Bathochordaeus\\images\\Bathochordaeus_38.jpg",
+        "contributorsEmail": "brian@mbari.org",
+        "width": 1920,
+        "height": 1079,
+        "imagingType": "ROV",
+        "salinity": null,
+        "temperatureCelsius": null,
+        "oxygenMlL": null,
+        "latitude": null,
+        "longitude": null,
+        "sha256": "d0555927f8a6d741fa6d16a6e3f16632d5622b2d2bd023c54d812c72101d558a",
+        "createdTimestamp": "2021-09-29T21:18:32.249Z",
+        "lastValidation": "2024-12-01T11:23:27.229289Z",
+        "valid": true,
+        "lastUpdatedTimestamp": "2024-12-01T11:23:27.235Z",
+        "tags": [
+            {
+                "uuid": "d65b6aad-5cbd-4348-9195-a93b76d57d7e",
+                "key": "source",
+                "value": "MBARI/VARS",
+                "mediaType": "text/plain"
+            }
+        ],
+        "boundingBoxes": [
+            {
+                "uuid": "465550b8-8f95-412b-9cef-95d3a9cc2033",
+                "userDefinedKey": "3d2a620f-6d84-4526-b465-76c34312ba1e",
+                "concept": "Bathochordaeus",
+                "height": 214,
+                "observer": "master@mbari.org",
+                "width": 188,
+                "x": 405,
+                "y": 151,
+                "rejected": false,
+                "verified": false,
+                "lastUpdatedTimestamp": "2021-11-01T17:33:24.631Z",
+                "createdTimestamp": "2021-09-29T21:18:33.881Z"
+            }
+        ]
+    },
+    {
+        "uuid": "2ecab416-615d-4dd3-8b8c-523aa661e758",
+        "url": "https://database.fathomnet.org/static/m3/framegrabs/Doc%20Ricketts/images/100039/02_58_24_29.png",
+        "local_path": "fathomnet_data\\Bathochordaeus\\images\\Bathochordaeus_39.jpg",
+        "contributorsEmail": "brian@mbari.org",
+        "width": 1920,
+        "height": 1080,
+        "imagingType": "ROV",
+        "salinity": null,
+        "temperatureCelsius": null,
+        "oxygenMlL": null,
+        "latitude": null,
+        "longitude": null,
+        "sha256": "32346ebc6c232f4d503eab64d0b0a9724f026d174cab2bb27ff8860dd840a219",
+        "createdTimestamp": "2021-09-29T21:18:43.966Z",
+        "lastValidation": "2024-12-01T11:22:11.948372Z",
+        "valid": true,
+        "lastUpdatedTimestamp": "2024-12-01T11:22:11.953Z",
+        "tags": [
+            {
+                "uuid": "3759a6fa-22da-4a12-a4e2-e95960674b41",
+                "key": "source",
+                "value": "MBARI/VARS",
+                "mediaType": "text/plain"
+            }
+        ],
+        "boundingBoxes": [
+            {
+                "uuid": "c074606a-0fa3-4d59-92f7-d5e4dbe17199",
+                "userDefinedKey": "4c9d89ef-2d67-4939-5363-a65c3d12ba1e",
+                "concept": "Bathochordaeus",
+                "height": 644,
+                "observer": "kakani.katija@gmail.com",
+                "width": 600,
+                "x": 1035,
+                "y": 44,
+                "rejected": false,
+                "verified": true,
+                "lastUpdatedTimestamp": "2022-04-05T21:01:26.298Z",
+                "createdTimestamp": "2021-09-29T21:18:45.621Z"
+            },
+            {
+                "uuid": "c7dea9e2-12ce-43f3-95dc-8188d2d6495f",
+                "userDefinedKey": "78a121df-49e4-42b3-4d6a-dc5e3d12ba1e",
+                "concept": "Bathochordaeus",
+                "height": 109,
+                "observer": "kakani.katija@gmail.com",
+                "width": 85,
+                "x": 1168,
+                "y": 359,
+                "rejected": false,
+                "verified": true,
+                "lastUpdatedTimestamp": "2022-04-05T21:01:26.300Z",
+                "createdTimestamp": "2021-09-29T21:18:45.621Z"
+            }
+        ]
+    },
+    {
+        "uuid": "9a4f6919-8c96-4008-a269-a83445abccd5",
+        "url": "https://database.fathomnet.org/static/m3/framegrabs/Doc%20Ricketts/images/100039/02_12_09_10.png",
+        "local_path": "fathomnet_data\\Bathochordaeus\\images\\Bathochordaeus_40.jpg",
+        "contributorsEmail": "brian@mbari.org",
+        "width": 1920,
+        "height": 1080,
+        "imagingType": "ROV",
+        "salinity": null,
+        "temperatureCelsius": null,
+        "oxygenMlL": null,
+        "latitude": null,
+        "longitude": null,
+        "sha256": "490d57353c3625bc671e1e7d8af799a67cc0081fef3b29f9ac7472c51d2eb73c",
+        "createdTimestamp": "2021-09-29T21:18:55.879Z",
+        "lastValidation": "2024-12-01T11:20:23.873953Z",
+        "valid": true,
+        "lastUpdatedTimestamp": "2024-12-01T11:20:23.879Z",
+        "tags": [
+            {
+                "uuid": "04df26e1-7804-4d43-a32d-95c3890ae57b",
+                "key": "source",
+                "value": "MBARI/VARS",
+                "mediaType": "text/plain"
+            }
+        ],
+        "boundingBoxes": [
+            {
+                "uuid": "81802bc7-15f9-4cb2-a457-13b5753aca3a",
+                "userDefinedKey": "aa31c80e-f446-4446-8560-37a83a12ba1e",
+                "concept": "Bathochordaeus",
+                "height": 98,
+                "observer": "mage",
+                "width": 119,
+                "x": 611,
+                "y": 609,
+                "rejected": false,
+                "verified": false,
+                "lastUpdatedTimestamp": "2021-09-29T21:18:57.617Z",
+                "createdTimestamp": "2021-09-29T21:18:57.617Z"
+            }
+        ]
+    },
+    {
+        "uuid": "4dfa0386-1c8f-4420-8c7b-e9fd89062741",
+        "url": "https://database.fathomnet.org/static/m3/framegrabs/Doc%20Ricketts/images/100036/03_44_28_25.png",
+        "local_path": "fathomnet_data\\Bathochordaeus\\images\\Bathochordaeus_41.jpg",
+        "contributorsEmail": "brian@mbari.org",
+        "width": 1920,
+        "height": 1080,
+        "imagingType": "ROV",
+        "salinity": null,
+        "temperatureCelsius": null,
+        "oxygenMlL": null,
+        "latitude": null,
+        "longitude": null,
+        "sha256": "e329ee7fc0c34978f7349138dcfa8155d271773541dee98a49ca8f6957b46a39",
+        "createdTimestamp": "2021-09-29T21:18:55.880Z",
+        "lastValidation": "2024-12-01T11:20:23.399294Z",
+        "valid": true,
+        "lastUpdatedTimestamp": "2024-12-01T11:20:23.404Z",
+        "tags": [
+            {
+                "uuid": "c51ab63a-5ed5-4dc0-b840-3cc0251a14c4",
+                "key": "source",
+                "value": "MBARI/VARS",
+                "mediaType": "text/plain"
+            }
+        ],
+        "boundingBoxes": [
+            {
+                "uuid": "60544cb6-8f07-4d6d-91e9-23511d48ebb2",
+                "userDefinedKey": "b303dc76-b669-47ab-ac69-9fc83f12ba1e",
+                "concept": "Bathochordaeus",
+                "height": 67,
+                "observer": "sbush",
+                "width": 66,
+                "x": 943,
+                "y": 452,
+                "rejected": false,
+                "verified": false,
+                "lastUpdatedTimestamp": "2021-09-29T21:18:57.619Z",
+                "createdTimestamp": "2021-09-29T21:18:57.619Z"
+            },
+            {
+                "uuid": "a6c1ef2a-62ca-4a94-83c6-f8dec51e1c67",
+                "userDefinedKey": "56be0b42-bad2-4e03-7369-dbc53f12ba1e",
+                "concept": "Bathochordaeus",
+                "height": 141,
+                "observer": "sbush",
+                "width": 294,
+                "x": 832,
+                "y": 425,
+                "rejected": false,
+                "verified": false,
+                "lastUpdatedTimestamp": "2021-09-29T21:18:57.619Z",
+                "createdTimestamp": "2021-09-29T21:18:57.619Z"
+            }
+        ]
+    },
+    {
+        "uuid": "ebcef81a-98a7-4569-a004-2b4ac1b915c2",
+        "url": "https://database.fathomnet.org/static/m3/framegrabs/Doc%20Ricketts/images/100039/02_56_45_25.png",
+        "local_path": "fathomnet_data\\Bathochordaeus\\images\\Bathochordaeus_42.jpg",
+        "contributorsEmail": "brian@mbari.org",
+        "width": 1920,
+        "height": 1080,
+        "imagingType": "ROV",
+        "salinity": null,
+        "temperatureCelsius": null,
+        "oxygenMlL": null,
+        "latitude": null,
+        "longitude": null,
+        "sha256": "1f036bfa8de12bfd2b9cf86896e66d7c26fb370636352f94fb4f64288daa7411",
+        "createdTimestamp": "2021-09-29T21:18:55.968Z",
+        "lastValidation": "2024-12-01T11:19:53.157999Z",
+        "valid": true,
+        "lastUpdatedTimestamp": "2024-12-01T11:19:53.165Z",
+        "tags": [
+            {
+                "uuid": "df4b66ff-9f89-4c83-8a54-14d8efa8ed84",
+                "key": "source",
+                "value": "MBARI/VARS",
+                "mediaType": "text/plain"
+            }
+        ],
+        "boundingBoxes": [
+            {
+                "uuid": "72016027-4e71-44ef-b051-a0479107ddfe",
+                "userDefinedKey": "83e0c438-7765-43af-876b-0d7d5ec3aa1e",
+                "concept": "Bathochordaeus",
+                "height": 201,
+                "observer": "mage",
+                "width": 67,
+                "x": 980,
+                "y": 105,
+                "rejected": false,
+                "verified": false,
+                "lastUpdatedTimestamp": "2021-09-29T21:18:57.724Z",
+                "createdTimestamp": "2021-09-29T21:18:57.724Z"
+            }
+        ]
+    },
+    {
+        "uuid": "4bb75194-dd61-4541-acbd-c148d53a5d21",
+        "url": "https://database.fathomnet.org/static/m3/framegrabs/Doc%20Ricketts/images/100039/02_58_39_18.png",
+        "local_path": "fathomnet_data\\Bathochordaeus\\images\\Bathochordaeus_43.jpg",
+        "contributorsEmail": "brian@mbari.org",
+        "width": 1920,
+        "height": 1080,
+        "imagingType": "ROV",
+        "salinity": null,
+        "temperatureCelsius": null,
+        "oxygenMlL": null,
+        "latitude": null,
+        "longitude": null,
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "createdTimestamp": "2021-09-29T21:19:08.021Z",
+        "lastValidation": "2024-12-01T11:18:56.403405Z",
+        "valid": true,
+        "lastUpdatedTimestamp": "2024-12-01T11:18:56.408Z",
+        "tags": [
+            {
+                "uuid": "bc3508aa-cf43-4f58-98f8-99de4849263c",
+                "key": "source",
+                "value": "MBARI/VARS",
+                "mediaType": "text/plain"
+            }
+        ],
+        "boundingBoxes": [
+            {
+                "uuid": "9126bc86-a564-4aed-a51a-4ca8235a061a",
+                "userDefinedKey": "48404069-f852-4ec1-f163-6b693d12ba1e",
+                "concept": "Bathochordaeus",
+                "height": 578,
+                "observer": "mage",
+                "width": 598,
+                "x": 302,
+                "y": 259,
+                "rejected": false,
+                "verified": false,
+                "lastUpdatedTimestamp": "2021-09-29T21:19:09.714Z",
+                "createdTimestamp": "2021-09-29T21:19:09.714Z"
+            },
+            {
+                "uuid": "6ecc2e4e-2192-4454-a74a-ab9149d95f4e",
+                "userDefinedKey": "951e96aa-ec59-44dd-3468-bc6b3d12ba1e",
+                "concept": "Bathochordaeus",
+                "height": 56,
+                "observer": "mage",
+                "width": 75,
+                "x": 493,
+                "y": 585,
+                "rejected": false,
+                "verified": false,
+                "lastUpdatedTimestamp": "2021-09-29T21:19:09.714Z",
+                "createdTimestamp": "2021-09-29T21:19:09.714Z"
+            }
+        ]
+    },
+    {
+        "uuid": "43d20758-c3a3-4240-8a1c-1be92bd1413a",
+        "url": "https://database.fathomnet.org/static/m3/framegrabs/Doc%20Ricketts/images/100039/02_37_55_02.png",
+        "local_path": "fathomnet_data\\Bathochordaeus\\images\\Bathochordaeus_44.jpg",
+        "contributorsEmail": "brian@mbari.org",
+        "width": 1920,
+        "height": 1080,
+        "imagingType": "ROV",
+        "salinity": null,
+        "temperatureCelsius": null,
+        "oxygenMlL": null,
+        "latitude": null,
+        "longitude": null,
+        "sha256": "ca303b392ac40052ea2b958d3465ffddd0118dd4b7d05dabd0ef1da1e681028e",
+        "createdTimestamp": "2021-09-29T21:19:08.120Z",
+        "lastValidation": "2024-12-01T11:18:17.762457Z",
+        "valid": true,
+        "lastUpdatedTimestamp": "2024-12-01T11:18:17.767Z",
+        "tags": [
+            {
+                "uuid": "50bccdaa-691c-4199-a8ed-561994bee29c",
+                "key": "source",
+                "value": "MBARI/VARS",
+                "mediaType": "text/plain"
+            }
+        ],
+        "boundingBoxes": [
+            {
+                "uuid": "0c1320c9-af4f-486b-8b27-6d66aa1af42e",
+                "userDefinedKey": "1b78792c-f227-4871-1965-94793c12ba1e",
+                "concept": "Bathochordaeus",
+                "height": 42,
+                "observer": "mage",
+                "width": 39,
+                "x": 745,
+                "y": 267,
+                "rejected": false,
+                "verified": false,
+                "lastUpdatedTimestamp": "2021-09-29T21:19:09.869Z",
+                "createdTimestamp": "2021-09-29T21:19:09.869Z"
+            }
+        ]
+    },
+    {
+        "uuid": "12c36544-8c6b-4dbc-b977-5c11a64825ea",
+        "url": "https://database.fathomnet.org/static/m3/framegrabs/MiniROV/images/0057/02_20_08_19.png",
+        "local_path": "fathomnet_data\\Bathochordaeus\\images\\Bathochordaeus_45.jpg",
+        "contributorsEmail": "brian@mbari.org",
+        "width": 1920,
+        "height": 1080,
+        "imagingType": "ROV",
+        "salinity": null,
+        "temperatureCelsius": null,
+        "oxygenMlL": null,
+        "latitude": null,
+        "longitude": null,
+        "sha256": "5fe609afdefd1158c62c6b9810b16341fe7dbd3533ca79fff2f79baf90e954d0",
+        "createdTimestamp": "2021-09-29T21:19:08.153Z",
+        "lastValidation": "2024-12-01T11:18:05.062027Z",
+        "valid": true,
+        "lastUpdatedTimestamp": "2024-12-01T11:18:05.067Z",
+        "tags": [
+            {
+                "uuid": "d33119e1-1549-4106-8849-a7d3a1caf029",
+                "key": "source",
+                "value": "MBARI/VARS",
+                "mediaType": "text/plain"
+            }
+        ],
+        "boundingBoxes": [
+            {
+                "uuid": "8669386f-db1f-4054-8232-d6f15334f8e3",
+                "userDefinedKey": "350843ba-fa9e-4b51-506c-72773b12ba1e",
+                "concept": "Bathochordaeus",
+                "height": 121,
+                "observer": "kakani.katija@gmail.com",
+                "width": 96,
+                "x": 845,
+                "y": 262,
+                "rejected": false,
+                "verified": true,
+                "lastUpdatedTimestamp": "2022-04-05T21:02:17.432Z",
+                "createdTimestamp": "2021-09-29T21:19:09.927Z"
+            }
+        ]
+    },
+    {
+        "uuid": "df75abb6-0c86-4858-9c70-ad599958cecb",
+        "url": "https://database.fathomnet.org/static/m3/framegrabs/Doc%20Ricketts/images/100034/01_52_46_25.png",
+        "local_path": "fathomnet_data\\Bathochordaeus\\images\\Bathochordaeus_46.jpg",
+        "contributorsEmail": "brian@mbari.org",
+        "width": 1920,
+        "height": 1080,
+        "imagingType": "ROV",
+        "salinity": null,
+        "temperatureCelsius": null,
+        "oxygenMlL": null,
+        "latitude": null,
+        "longitude": null,
+        "sha256": "9619dcaeca679ed326bf08deb2ad86857425f409a07a2cc6b0fda9bb32c1dbd2",
+        "createdTimestamp": "2021-09-29T21:19:20.784Z",
+        "lastValidation": "2024-12-01T11:16:59.747199Z",
+        "valid": true,
+        "lastUpdatedTimestamp": "2024-12-01T11:16:59.752Z",
+        "tags": [
+            {
+                "uuid": "80d86f2a-e478-4b41-9ab4-b5a76b1951a1",
+                "key": "source",
+                "value": "MBARI/VARS",
+                "mediaType": "text/plain"
+            }
+        ],
+        "boundingBoxes": [
+            {
+                "uuid": "72abca0c-883c-41e3-88a1-2dbee046a656",
+                "userDefinedKey": "1789a568-8f58-449f-ac6f-934657c3aa1e",
+                "concept": "Bathochordaeus",
+                "height": 453,
+                "observer": "robs",
+                "width": 308,
+                "x": 994,
+                "y": 335,
+                "rejected": false,
+                "verified": false,
+                "lastUpdatedTimestamp": "2021-09-29T21:19:22.198Z",
+                "createdTimestamp": "2021-09-29T21:19:22.198Z"
+            }
+        ]
+    },
+    {
+        "uuid": "9624aaaa-9f1b-42b1-803e-5b884665e9fc",
+        "url": "https://database.fathomnet.org/static/m3/framegrabs/MiniROV/images/0056/01_48_59_25.png",
+        "local_path": "fathomnet_data\\Bathochordaeus\\images\\Bathochordaeus_47.jpg",
+        "contributorsEmail": "brian@mbari.org",
+        "width": 1920,
+        "height": 1080,
+        "imagingType": "ROV",
+        "salinity": null,
+        "temperatureCelsius": null,
+        "oxygenMlL": null,
+        "latitude": null,
+        "longitude": null,
+        "sha256": "5cb7d4f928034c2acc2ef020e74845fe73ab86dec2c4e946a29ca90a03795db9",
+        "createdTimestamp": "2021-09-29T21:19:20.801Z",
+        "lastValidation": "2024-12-01T11:16:54.331980Z",
+        "valid": true,
+        "lastUpdatedTimestamp": "2024-12-01T11:16:54.343Z",
+        "tags": [
+            {
+                "uuid": "bdeb2759-7e29-488d-afdf-f055a5c54936",
+                "key": "source",
+                "value": "MBARI/VARS",
+                "mediaType": "text/plain"
+            }
+        ],
+        "boundingBoxes": [
+            {
+                "uuid": "a2ea22c4-f5d6-4e0f-8deb-139bc22f4cf3",
+                "userDefinedKey": "5a6c447f-0415-436f-ef6b-2a923812ba1e",
+                "concept": "Bathochordaeus",
+                "height": 394,
+                "observer": "schlin",
+                "width": 511,
+                "x": 690,
+                "y": 472,
+                "rejected": false,
+                "verified": false,
+                "lastUpdatedTimestamp": "2021-09-29T21:19:22.218Z",
+                "createdTimestamp": "2021-09-29T21:19:22.218Z"
+            }
+        ]
+    },
+    {
+        "uuid": "a8d758c8-e581-4355-b562-c93e92d5acc3",
+        "url": "https://database.fathomnet.org/static/m3/framegrabs/Doc%20Ricketts/images/100039/02_56_28_25.png",
+        "local_path": "fathomnet_data\\Bathochordaeus\\images\\Bathochordaeus_48.jpg",
+        "contributorsEmail": "brian@mbari.org",
+        "width": 1920,
+        "height": 1080,
+        "imagingType": "ROV",
+        "salinity": null,
+        "temperatureCelsius": null,
+        "oxygenMlL": null,
+        "latitude": null,
+        "longitude": null,
+        "sha256": "e40a903862ef03ab6c429a8d054b5d07b5e6d26054bc6cf9cc5f35aa5f819191",
+        "createdTimestamp": "2021-09-29T21:19:20.896Z",
+        "lastValidation": "2024-12-01T11:16:10.643308Z",
+        "valid": true,
+        "lastUpdatedTimestamp": "2024-12-01T11:16:10.648Z",
+        "tags": [
+            {
+                "uuid": "736215b7-acf1-4c3b-a5c0-72ec2a9c51ae",
+                "key": "source",
+                "value": "MBARI/VARS",
+                "mediaType": "text/plain"
+            }
+        ],
+        "boundingBoxes": [
+            {
+                "uuid": "7577460c-8afe-492e-bb41-d2e53bfac9ea",
+                "userDefinedKey": "1a2e574f-885d-41ed-b06c-c13b3d12ba1e",
+                "concept": "Bathochordaeus",
+                "height": 525,
+                "observer": "mage",
+                "width": 387,
+                "x": 240,
+                "y": 185,
+                "rejected": false,
+                "verified": false,
+                "lastUpdatedTimestamp": "2021-09-29T21:19:22.367Z",
+                "createdTimestamp": "2021-09-29T21:19:22.367Z"
+            }
+        ]
+    },
+    {
+        "uuid": "e3a61d2d-1f9f-41d5-8643-3e6a23540b54",
+        "url": "https://database.fathomnet.org/static/m3/framegrabs/Doc%20Ricketts/images/100039/02_59_12_02.png",
+        "local_path": "fathomnet_data\\Bathochordaeus\\images\\Bathochordaeus_49.jpg",
+        "contributorsEmail": "brian@mbari.org",
+        "width": 1920,
+        "height": 1080,
+        "imagingType": "ROV",
+        "salinity": null,
+        "temperatureCelsius": null,
+        "oxygenMlL": null,
+        "latitude": null,
+        "longitude": null,
+        "sha256": "529447fbd73e874567e31ce3a7e9cb18e97dcd7129e1edc7db6f52c5950cd070",
+        "createdTimestamp": "2021-09-29T21:19:33.245Z",
+        "lastValidation": "2024-12-01T11:15:28.034449Z",
+        "valid": true,
+        "lastUpdatedTimestamp": "2024-12-01T11:15:28.043Z",
+        "tags": [
+            {
+                "uuid": "8ed67846-df1e-4de1-838f-d8d31c8ca88c",
+                "key": "source",
+                "value": "MBARI/VARS",
+                "mediaType": "text/plain"
+            }
+        ],
+        "boundingBoxes": [
+            {
+                "uuid": "34d2ceeb-84eb-4d74-871e-7d20b1f3aae7",
+                "userDefinedKey": "b05622cd-97a5-4b17-9760-1c903d12ba1e",
+                "concept": "Bathochordaeus",
+                "height": 675,
+                "observer": "mage",
+                "width": 565,
+                "x": 302,
+                "y": 398,
+                "rejected": false,
+                "verified": false,
+                "lastUpdatedTimestamp": "2021-09-29T21:19:34.993Z",
+                "createdTimestamp": "2021-09-29T21:19:34.993Z"
+            },
+            {
+                "uuid": "04a491d6-ea1f-4c5c-9551-ad0935e55f8d",
+                "userDefinedKey": "87741293-06b1-4cbd-e369-37923d12ba1e",
+                "concept": "Bathochordaeus",
+                "height": 74,
+                "observer": "mage",
+                "width": 137,
+                "x": 484,
+                "y": 776,
+                "rejected": false,
+                "verified": false,
+                "lastUpdatedTimestamp": "2021-09-29T21:19:34.993Z",
+                "createdTimestamp": "2021-09-29T21:19:34.993Z"
+            }
+        ]
+    }
+]
