@@ -1,0 +1,2152 @@
+[
+    {
+        "uuid": "c32ade59-e246-4d96-a054-7f2c493fce98",
+        "url": "https://database.fathomnet.org/static/m3/framegrabs/Doc%20Ricketts/images/0962/02_16_44_13.png",
+        "local_path": "fathomnet_data\\Lampocteis_cruentiventer\\images\\Lampocteis_cruentiventer_0.jpg",
+        "contributorsEmail": "brian@mbari.org",
+        "width": 1920,
+        "height": 1080,
+        "imagingType": "ROV",
+        "salinity": 34.31700134277344,
+        "temperatureCelsius": 0.2460000067949295,
+        "oxygenMlL": 5.50600004196167,
+        "latitude": 36.440055,
+        "longitude": -122.28136,
+        "sha256": "beae82780bdf298851bb86efb44d8e9896150e4d6a3e6fd75392b9d2340cc46c",
+        "createdTimestamp": "2021-09-29T21:17:08.494Z",
+        "lastValidation": "2024-12-01T11:38:16.170196Z",
+        "valid": true,
+        "lastUpdatedTimestamp": "2024-12-01T11:38:16.179Z",
+        "tags": [
+            {
+                "uuid": "fcb5d7af-0176-4e4f-a12f-280f23648344",
+                "key": "source",
+                "value": "MBARI/VARS",
+                "mediaType": "text/plain"
+            }
+        ],
+        "boundingBoxes": [
+            {
+                "uuid": "ed48a91b-85ce-4772-a4f0-06596e3249ff",
+                "userDefinedKey": "8e7d9fea-3c25-4693-5b65-d78ca145b51e",
+                "concept": "Lampocteis cruentiventer",
+                "height": 128,
+                "observer": "schlin",
+                "width": 150,
+                "x": 1045,
+                "y": 364,
+                "rejected": false,
+                "verified": false,
+                "lastUpdatedTimestamp": "2021-09-29T21:17:10.014Z",
+                "createdTimestamp": "2021-09-29T21:17:10.014Z"
+            }
+        ]
+    },
+    {
+        "uuid": "dcc99708-4860-4a78-8998-acccb317ac1d",
+        "url": "https://database.fathomnet.org/static/m3/framegrabs/Doc%20Ricketts/images/0962/01_53_03_14.png",
+        "local_path": "fathomnet_data\\Lampocteis_cruentiventer\\images\\Lampocteis_cruentiventer_1.jpg",
+        "contributorsEmail": "brian@mbari.org",
+        "width": 1920,
+        "height": 1080,
+        "imagingType": "ROV",
+        "salinity": 34.3390007019043,
+        "temperatureCelsius": 0.2150000035762787,
+        "oxygenMlL": 5.335000038146973,
+        "latitude": 36.440417,
+        "longitude": -122.281692,
+        "sha256": "02214a546a267763d4ca873524ad6a554ac89a33f5993c8b28bf3b80be8e17b2",
+        "createdTimestamp": "2021-09-29T21:18:43.990Z",
+        "lastValidation": "2024-12-01T11:22:05.655708Z",
+        "valid": true,
+        "lastUpdatedTimestamp": "2024-12-01T11:22:05.663Z",
+        "tags": [
+            {
+                "uuid": "dc1f25c2-f12e-413d-9559-20c3ea7c4d85",
+                "key": "source",
+                "value": "MBARI/VARS",
+                "mediaType": "text/plain"
+            }
+        ],
+        "boundingBoxes": [
+            {
+                "uuid": "5e455285-6738-433e-8f19-e8d2c38c33bb",
+                "userDefinedKey": "699c7830-c482-42df-e260-7ae6c51fb51e",
+                "concept": "Lampocteis cruentiventer",
+                "height": 178,
+                "observer": "schlin",
+                "width": 159,
+                "x": 619,
+                "y": 412,
+                "rejected": false,
+                "verified": false,
+                "lastUpdatedTimestamp": "2021-09-29T21:18:45.652Z",
+                "createdTimestamp": "2021-09-29T21:18:45.652Z"
+            }
+        ]
+    },
+    {
+        "uuid": "1773a38c-bbd2-4f92-89b3-ef6c2f2478a5",
+        "url": "https://database.fathomnet.org/static/m3/framegrabs/Tiburon/images/0847/00_56_55_18.png",
+        "local_path": "fathomnet_data\\Lampocteis_cruentiventer\\images\\Lampocteis_cruentiventer_2.jpg",
+        "contributorsEmail": "brian@mbari.org",
+        "width": 713,
+        "height": 486,
+        "imagingType": "ROV",
+        "salinity": null,
+        "temperatureCelsius": null,
+        "oxygenMlL": null,
+        "latitude": null,
+        "longitude": null,
+        "sha256": "4a01b918f51fc8fd3aa20d480fd466e7dd48d1195c9ac8ee3e480c637efaa754",
+        "createdTimestamp": "2021-09-29T21:19:07.967Z",
+        "lastValidation": "2024-12-01T11:19:14.262003Z",
+        "valid": true,
+        "lastUpdatedTimestamp": "2024-12-01T11:19:14.267Z",
+        "tags": [
+            {
+                "uuid": "462105fd-5345-4574-9606-e99e71b40274",
+                "key": "source",
+                "value": "MBARI/VARS",
+                "mediaType": "text/plain"
+            }
+        ],
+        "boundingBoxes": [
+            {
+                "uuid": "626b607d-02d3-471c-b403-7c4b14fe9594",
+                "userDefinedKey": "e6608858-bbff-4f07-4567-c3bd1cc4aa1e",
+                "concept": "Lampocteis cruentiventer",
+                "height": 255,
+                "observer": "master@mbari.org",
+                "width": 248,
+                "x": 314,
+                "y": 147,
+                "rejected": false,
+                "verified": false,
+                "lastUpdatedTimestamp": "2021-11-01T17:31:33.201Z",
+                "createdTimestamp": "2021-09-29T21:19:09.638Z"
+            }
+        ]
+    },
+    {
+        "uuid": "91b689db-79ab-4cb4-90b0-b0f9b00c741e",
+        "url": "https://database.fathomnet.org/static/m3/framegrabs/Doc%20Ricketts/images/0962/01_47_45_14.png",
+        "local_path": "fathomnet_data\\Lampocteis_cruentiventer\\images\\Lampocteis_cruentiventer_3.jpg",
+        "contributorsEmail": "brian@mbari.org",
+        "width": 1920,
+        "height": 1080,
+        "imagingType": "ROV",
+        "salinity": 34.3390007019043,
+        "temperatureCelsius": 0.21799999475479126,
+        "oxygenMlL": 5.329999923706055,
+        "latitude": 36.440343,
+        "longitude": -122.281913,
+        "sha256": "613c4249f8a22d7404c755a9c0658abfcda2428a6127e4d1d199852c8065bdd0",
+        "createdTimestamp": "2021-09-29T21:21:29.505Z",
+        "lastValidation": "2024-12-01T10:59:45.846886Z",
+        "valid": true,
+        "lastUpdatedTimestamp": "2024-12-01T10:59:45.851Z",
+        "tags": [
+            {
+                "uuid": "f1eda6d7-a96a-4fc3-9101-a1efc7ed4215",
+                "key": "source",
+                "value": "MBARI/VARS",
+                "mediaType": "text/plain"
+            }
+        ],
+        "boundingBoxes": [
+            {
+                "uuid": "0c8e4cfa-ee90-4f8d-9a3c-856f39cc3391",
+                "userDefinedKey": "fbfefcc7-3f2d-4c84-186d-f53c4c5fb51e",
+                "concept": "Lampocteis cruentiventer",
+                "height": 78,
+                "observer": "schlin",
+                "width": 70,
+                "x": 1143,
+                "y": 618,
+                "rejected": false,
+                "verified": false,
+                "lastUpdatedTimestamp": "2021-09-29T21:21:31.165Z",
+                "createdTimestamp": "2021-09-29T21:21:31.165Z"
+            }
+        ]
+    },
+    {
+        "uuid": "4d4258fc-f4b4-4ed4-a9d2-dcd4dbb20f96",
+        "url": "https://database.fathomnet.org/static/m3/framegrabs/Doc%20Ricketts/images/0962/01_48_16_15.png",
+        "local_path": "fathomnet_data\\Lampocteis_cruentiventer\\images\\Lampocteis_cruentiventer_4.jpg",
+        "contributorsEmail": "brian@mbari.org",
+        "width": 1920,
+        "height": 1080,
+        "imagingType": "ROV",
+        "salinity": 34.3390007019043,
+        "temperatureCelsius": 0.21799999475479126,
+        "oxygenMlL": 5.330999851226807,
+        "latitude": 36.44038,
+        "longitude": -122.281886,
+        "sha256": "bdc3410a87285b2b3ef6c9ce76902ed1313c0b86036ce44fa06f0d277d73f56a",
+        "createdTimestamp": "2021-09-29T21:24:40.234Z",
+        "lastValidation": "2024-12-01T10:40:54.982307Z",
+        "valid": true,
+        "lastUpdatedTimestamp": "2024-12-01T10:40:54.987Z",
+        "tags": [
+            {
+                "uuid": "7544169a-820f-40dd-8d0b-4ccfc37e7c0e",
+                "key": "source",
+                "value": "MBARI/VARS",
+                "mediaType": "text/plain"
+            }
+        ],
+        "boundingBoxes": [
+            {
+                "uuid": "eff5698d-842a-4437-8706-626ad2f31fb8",
+                "userDefinedKey": "1d30c8b6-0e7c-4b84-bb62-19e38f96b41e",
+                "concept": "Lampocteis cruentiventer",
+                "height": 66,
+                "observer": "schlin",
+                "width": 94,
+                "x": 1090,
+                "y": 462,
+                "rejected": false,
+                "verified": false,
+                "lastUpdatedTimestamp": "2021-09-29T21:24:41.969Z",
+                "createdTimestamp": "2021-09-29T21:24:41.969Z"
+            }
+        ]
+    },
+    {
+        "uuid": "834c0d22-8f8e-4025-9c38-3be573e30569",
+        "url": "https://database.fathomnet.org/static/m3/framegrabs/Doc%20Ricketts/images/0962/02_08_17_24.png",
+        "local_path": "fathomnet_data\\Lampocteis_cruentiventer\\images\\Lampocteis_cruentiventer_5.jpg",
+        "contributorsEmail": "brian@mbari.org",
+        "width": 1920,
+        "height": 1080,
+        "imagingType": "ROV",
+        "salinity": 34.33700180053711,
+        "temperatureCelsius": 0.21400000154972076,
+        "oxygenMlL": 5.336999893188477,
+        "latitude": 36.440077,
+        "longitude": -122.281603,
+        "sha256": "da34ea1c9993a732ad6cb3c45494d1da9fe21e2daac3352b54e1215079388db5",
+        "createdTimestamp": "2021-09-29T21:26:40.078Z",
+        "lastValidation": "2024-12-01T10:29:25.533268Z",
+        "valid": true,
+        "lastUpdatedTimestamp": "2024-12-01T10:29:25.538Z",
+        "tags": [
+            {
+                "uuid": "53c091f9-6e78-4839-8676-535ff244dd4a",
+                "key": "source",
+                "value": "MBARI/VARS",
+                "mediaType": "text/plain"
+            }
+        ],
+        "boundingBoxes": [
+            {
+                "uuid": "9c32144c-8432-4cc3-aaa3-01504f6b12b8",
+                "userDefinedKey": "effc6bee-9cd7-4088-9169-c056646ab51e",
+                "concept": "Lampocteis cruentiventer",
+                "height": 102,
+                "observer": "schlin",
+                "width": 76,
+                "x": 1111,
+                "y": 139,
+                "rejected": false,
+                "verified": false,
+                "lastUpdatedTimestamp": "2021-09-29T21:26:41.649Z",
+                "createdTimestamp": "2021-09-29T21:26:41.649Z"
+            }
+        ]
+    },
+    {
+        "uuid": "82e986f2-dd4c-4cc9-b543-21c9c990cc81",
+        "url": "https://database.fathomnet.org/static/m3/framegrabs/Ventana/stills/1999/169/01_56_12_15.png",
+        "local_path": "fathomnet_data\\Lampocteis_cruentiventer\\images\\Lampocteis_cruentiventer_6.jpg",
+        "contributorsEmail": "brian@mbari.org",
+        "width": 640,
+        "height": 486,
+        "imagingType": "ROV",
+        "salinity": 34.29100036621094,
+        "temperatureCelsius": 5.484000205993652,
+        "oxygenMlL": 0.23999999463558197,
+        "latitude": 36.7079,
+        "longitude": -122.055453,
+        "sha256": "2c7b06e0c7907279dd36e4c0661a28dad09625d7afc3f8f689611dce4d1cec65",
+        "createdTimestamp": "2021-09-29T21:16:09.133Z",
+        "lastValidation": "2024-12-01T11:52:48.967171Z",
+        "valid": true,
+        "lastUpdatedTimestamp": "2024-12-01T11:52:48.972Z",
+        "tags": [
+            {
+                "uuid": "2ff359a5-5d26-417d-a588-176717b8b86c",
+                "key": "source",
+                "value": "MBARI/VARS",
+                "mediaType": "text/plain"
+            }
+        ],
+        "boundingBoxes": [
+            {
+                "uuid": "6e544abb-126f-41ad-857a-2a3da1c3bbb7",
+                "userDefinedKey": "dda771eb-dadd-45dc-eb6f-75c4866bb51e",
+                "concept": "Lampocteis cruentiventer",
+                "height": 59,
+                "observer": "kwalz",
+                "width": 43,
+                "x": 247,
+                "y": 105,
+                "rejected": false,
+                "verified": false,
+                "lastUpdatedTimestamp": "2021-09-29T21:16:10.597Z",
+                "createdTimestamp": "2021-09-29T21:16:10.597Z"
+            }
+        ]
+    },
+    {
+        "uuid": "856c7f93-0b13-4328-9a53-caefce2ce0fd",
+        "url": "https://database.fathomnet.org/static/m3/framegrabs/Ventana/stills/1999/169/01_56_15_16.png",
+        "local_path": "fathomnet_data\\Lampocteis_cruentiventer\\images\\Lampocteis_cruentiventer_7.jpg",
+        "contributorsEmail": "brian@mbari.org",
+        "width": 640,
+        "height": 486,
+        "imagingType": "ROV",
+        "salinity": 34.29100036621094,
+        "temperatureCelsius": 5.484000205993652,
+        "oxygenMlL": 0.23999999463558197,
+        "latitude": 36.7079,
+        "longitude": -122.055453,
+        "sha256": "c6be0781f546e7ee1bb6d22c6b57f30967c565639eeb9a89a65e592309fe5f44",
+        "createdTimestamp": "2021-09-29T21:20:43.643Z",
+        "lastValidation": "2024-12-01T11:06:32.713651Z",
+        "valid": true,
+        "lastUpdatedTimestamp": "2024-12-01T11:06:32.719Z",
+        "tags": [
+            {
+                "uuid": "6301c382-cbb4-4eab-a872-10fde2c2f760",
+                "key": "source",
+                "value": "MBARI/VARS",
+                "mediaType": "text/plain"
+            }
+        ],
+        "boundingBoxes": [
+            {
+                "uuid": "54791d67-4fe3-436f-b1e2-00b79d0f820d",
+                "userDefinedKey": "cf20464f-6652-4685-1167-f1dd7af8b41e",
+                "concept": "Lampocteis cruentiventer",
+                "height": 52,
+                "observer": "kwalz",
+                "width": 42,
+                "x": 245,
+                "y": 258,
+                "rejected": false,
+                "verified": false,
+                "lastUpdatedTimestamp": "2021-09-29T21:20:45.094Z",
+                "createdTimestamp": "2021-09-29T21:20:45.094Z"
+            }
+        ]
+    },
+    {
+        "uuid": "aa335299-b539-4726-9812-7946254e265e",
+        "url": "https://database.fathomnet.org/static/m3/framegrabs/Ventana/stills/1999/251/02_09_54_27.png",
+        "local_path": "fathomnet_data\\Lampocteis_cruentiventer\\images\\Lampocteis_cruentiventer_8.jpg",
+        "contributorsEmail": "brian@mbari.org",
+        "width": 640,
+        "height": 486,
+        "imagingType": "ROV",
+        "salinity": 34.457000732421875,
+        "temperatureCelsius": 4.499000072479248,
+        "oxygenMlL": 0.6200000047683716,
+        "latitude": 36.693975,
+        "longitude": -122.072658,
+        "sha256": "33eb52326fc0e735c2ced2c833de23ede0e5c9d9b5b70312bdffef53b5824ca3",
+        "createdTimestamp": "2021-09-29T21:28:28.489Z",
+        "lastValidation": "2024-12-01T10:21:04.969372Z",
+        "valid": true,
+        "lastUpdatedTimestamp": "2024-12-01T10:21:04.974Z",
+        "tags": [
+            {
+                "uuid": "3dfa30b7-877e-415a-b346-9140ac3fe219",
+                "key": "source",
+                "value": "MBARI/VARS",
+                "mediaType": "text/plain"
+            }
+        ],
+        "boundingBoxes": [
+            {
+                "uuid": "fb0286c2-ba37-45bf-bcc5-52abaa881541",
+                "userDefinedKey": "7cd4f6a4-35ff-46e5-dc68-d995c862b41e",
+                "concept": "Lampocteis cruentiventer",
+                "height": 79,
+                "observer": "gsainz",
+                "width": 87,
+                "x": 282,
+                "y": 269,
+                "rejected": false,
+                "verified": false,
+                "lastUpdatedTimestamp": "2021-09-29T21:28:30.153Z",
+                "createdTimestamp": "2021-09-29T21:28:30.153Z"
+            }
+        ]
+    },
+    {
+        "uuid": "42841df8-2ed7-4291-bcc4-f4f97448b101",
+        "url": "https://database.fathomnet.org/static/m3/framegrabs/Ventana/stills/1999/295/03_26_21_28.png",
+        "local_path": "fathomnet_data\\Lampocteis_cruentiventer\\images\\Lampocteis_cruentiventer_9.jpg",
+        "contributorsEmail": "brian@mbari.org",
+        "width": 720,
+        "height": 366,
+        "imagingType": "ROV",
+        "salinity": 34.361000061035156,
+        "temperatureCelsius": 4.775000095367432,
+        "oxygenMlL": 0.1899999976158142,
+        "latitude": 36.714812,
+        "longitude": -122.069723,
+        "sha256": "8d23cfc9397bebdb4e018ad9cb08903a40aed916adbfccf6e4c6733df8930f13",
+        "createdTimestamp": "2021-09-29T21:18:09.331Z",
+        "lastValidation": "2024-12-01T11:27:22.220229Z",
+        "valid": true,
+        "lastUpdatedTimestamp": "2024-12-01T11:27:22.226Z",
+        "tags": [
+            {
+                "uuid": "b04b95ea-669b-4693-ad20-d42130cb44d2",
+                "key": "source",
+                "value": "MBARI/VARS",
+                "mediaType": "text/plain"
+            }
+        ],
+        "boundingBoxes": [
+            {
+                "uuid": "35425838-1cb4-42ee-9832-9730688843d1",
+                "userDefinedKey": "5c6c9e3e-aada-4902-586c-b33af9a6b41e",
+                "concept": "Lampocteis cruentiventer",
+                "height": 212,
+                "observer": "master@mbari.org",
+                "width": 257,
+                "x": 188,
+                "y": 124,
+                "rejected": false,
+                "verified": false,
+                "lastUpdatedTimestamp": "2021-11-01T17:35:05.095Z",
+                "createdTimestamp": "2021-09-29T21:18:10.967Z"
+            }
+        ]
+    },
+    {
+        "uuid": "a6c0bc4a-32cd-4734-8cce-9605acdc8243",
+        "url": "https://database.fathomnet.org/static/m3/framegrabs/Ventana/stills/1999/295/03_26_35_28.png",
+        "local_path": "fathomnet_data\\Lampocteis_cruentiventer\\images\\Lampocteis_cruentiventer_10.jpg",
+        "contributorsEmail": "brian@mbari.org",
+        "width": 720,
+        "height": 366,
+        "imagingType": "ROV",
+        "salinity": 34.35900115966797,
+        "temperatureCelsius": 4.7769999504089355,
+        "oxygenMlL": 0.1899999976158142,
+        "latitude": 36.714805,
+        "longitude": -122.069595,
+        "sha256": "95d62b83204e15481aba820ab05f091b0b6b284e205b5f4cd62f8dbf8d65b053",
+        "createdTimestamp": "2021-09-29T21:25:38.384Z",
+        "lastValidation": "2024-12-01T10:35:55.663582Z",
+        "valid": true,
+        "lastUpdatedTimestamp": "2024-12-01T10:35:55.669Z",
+        "tags": [
+            {
+                "uuid": "64a49a32-9a96-4aa4-b502-62c39f12299d",
+                "key": "source",
+                "value": "MBARI/VARS",
+                "mediaType": "text/plain"
+            }
+        ],
+        "boundingBoxes": [
+            {
+                "uuid": "716858ee-28db-4452-b1b8-7c12a06c1a42",
+                "userDefinedKey": "f20a44af-ac28-417f-8b64-07a6f745b51e",
+                "concept": "Lampocteis cruentiventer",
+                "height": 196,
+                "observer": "master@mbari.org",
+                "width": 227,
+                "x": 473,
+                "y": 115,
+                "rejected": false,
+                "verified": false,
+                "lastUpdatedTimestamp": "2021-11-01T17:00:29.460Z",
+                "createdTimestamp": "2021-09-29T21:25:39.896Z"
+            }
+        ]
+    },
+    {
+        "uuid": "9b9e6aeb-4e25-4c1c-b769-2fc00c6ff397",
+        "url": "https://database.fathomnet.org/static/m3/framegrabs/Ventana/stills/1999/295/03_26_53_27.png",
+        "local_path": "fathomnet_data\\Lampocteis_cruentiventer\\images\\Lampocteis_cruentiventer_11.jpg",
+        "contributorsEmail": "brian@mbari.org",
+        "width": 720,
+        "height": 366,
+        "imagingType": "ROV",
+        "salinity": 34.36399841308594,
+        "temperatureCelsius": 4.775000095367432,
+        "oxygenMlL": 0.1899999976158142,
+        "latitude": 36.714927,
+        "longitude": -122.06945,
+        "sha256": "edfd161581e520cee5675c65031bf43addc1df34be7146ecebc08cd045b8d50b",
+        "createdTimestamp": "2021-09-29T21:19:20.836Z",
+        "lastValidation": "2024-12-01T11:16:41.311716Z",
+        "valid": true,
+        "lastUpdatedTimestamp": "2024-12-01T11:16:41.318Z",
+        "tags": [
+            {
+                "uuid": "37cb15af-c9dc-4951-ae16-bec13d7c3cbe",
+                "key": "source",
+                "value": "MBARI/VARS",
+                "mediaType": "text/plain"
+            }
+        ],
+        "boundingBoxes": [
+            {
+                "uuid": "83ca419d-1488-41b7-a096-ce69316ae1a9",
+                "userDefinedKey": "796bfea0-3ee7-4582-a666-783f8976b51e",
+                "concept": "Lampocteis cruentiventer",
+                "height": 224,
+                "observer": "master@mbari.org",
+                "width": 210,
+                "x": 278,
+                "y": 82,
+                "rejected": false,
+                "verified": false,
+                "lastUpdatedTimestamp": "2021-11-01T17:30:32.196Z",
+                "createdTimestamp": "2021-09-29T21:19:22.258Z"
+            }
+        ]
+    },
+    {
+        "uuid": "30f946d2-6579-42a8-9c18-1b89faf3c4e8",
+        "url": "https://database.fathomnet.org/static/m3/framegrabs/Ventana/stills/1999/295/03_26_57_11.png",
+        "local_path": "fathomnet_data\\Lampocteis_cruentiventer\\images\\Lampocteis_cruentiventer_12.jpg",
+        "contributorsEmail": "brian@mbari.org",
+        "width": 720,
+        "height": 366,
+        "imagingType": "ROV",
+        "salinity": 34.36399841308594,
+        "temperatureCelsius": 4.775000095367432,
+        "oxygenMlL": 0.1899999976158142,
+        "latitude": 36.714927,
+        "longitude": -122.06945,
+        "sha256": "b310743dad1bf01ccf40b45dfffcb1e8cd8910cef4dfc12cbe69f445794eb673",
+        "createdTimestamp": "2021-09-29T21:30:29.842Z",
+        "lastValidation": "2025-01-01T09:53:18.367614Z",
+        "valid": true,
+        "lastUpdatedTimestamp": "2025-01-01T09:53:18.377Z",
+        "tags": [
+            {
+                "uuid": "209e95ee-c3ce-4cc0-b785-134ebf8930a6",
+                "key": "source",
+                "value": "MBARI/VARS",
+                "mediaType": "text/plain"
+            }
+        ],
+        "boundingBoxes": [
+            {
+                "uuid": "f64c9ba9-56d5-4750-9a5b-36c1fc178389",
+                "userDefinedKey": "f3ad4f7a-c0be-4052-ae6d-936c1296b41e",
+                "concept": "Lampocteis cruentiventer",
+                "height": 219,
+                "observer": "master@mbari.org",
+                "width": 238,
+                "x": 83,
+                "y": 98,
+                "rejected": false,
+                "verified": false,
+                "lastUpdatedTimestamp": "2021-11-01T16:51:00.303Z",
+                "createdTimestamp": "2021-09-29T21:30:31.447Z"
+            }
+        ]
+    },
+    {
+        "uuid": "bd3365ee-de9f-4b20-9175-f42a9b22c0cf",
+        "url": "https://database.fathomnet.org/static/m3/framegrabs/Ventana/stills/1999/295/03_28_10_10.png",
+        "local_path": "fathomnet_data\\Lampocteis_cruentiventer\\images\\Lampocteis_cruentiventer_13.jpg",
+        "contributorsEmail": "brian@mbari.org",
+        "width": 720,
+        "height": 366,
+        "imagingType": "ROV",
+        "salinity": 34.361000061035156,
+        "temperatureCelsius": 4.77400016784668,
+        "oxygenMlL": 0.1899999976158142,
+        "latitude": 36.714725,
+        "longitude": -122.069403,
+        "sha256": "55b0286199343d4d165773e820a168457603364d0f4858ad6c16873f87e9d71f",
+        "createdTimestamp": "2021-09-29T21:22:17.846Z",
+        "lastValidation": "2024-12-01T10:53:50.384732Z",
+        "valid": true,
+        "lastUpdatedTimestamp": "2024-12-01T10:53:50.390Z",
+        "tags": [
+            {
+                "uuid": "60aa7632-5fb7-4d37-8737-b8c6035b88b7",
+                "key": "source",
+                "value": "MBARI/VARS",
+                "mediaType": "text/plain"
+            }
+        ],
+        "boundingBoxes": [
+            {
+                "uuid": "7ff7edae-f0e0-430c-8d7b-0a89579b1d6b",
+                "userDefinedKey": "d18ea7cb-6c85-4e1c-7761-01458c96b41e",
+                "concept": "Lampocteis cruentiventer",
+                "height": 117,
+                "observer": "master@mbari.org",
+                "width": 97,
+                "x": 288,
+                "y": 94,
+                "rejected": false,
+                "verified": false,
+                "lastUpdatedTimestamp": "2021-11-01T17:21:35.644Z",
+                "createdTimestamp": "2021-09-29T21:22:19.593Z"
+            }
+        ]
+    },
+    {
+        "uuid": "e104bc29-1039-449e-b2e2-76c2d15e0983",
+        "url": "https://database.fathomnet.org/static/m3/framegrabs/Ventana/stills/1999/295/03_29_04_08.png",
+        "local_path": "fathomnet_data\\Lampocteis_cruentiventer\\images\\Lampocteis_cruentiventer_14.jpg",
+        "contributorsEmail": "brian@mbari.org",
+        "width": 720,
+        "height": 366,
+        "imagingType": "ROV",
+        "salinity": 34.36199951171875,
+        "temperatureCelsius": 4.775000095367432,
+        "oxygenMlL": 0.1899999976158142,
+        "latitude": 36.715008,
+        "longitude": -122.068522,
+        "sha256": "a2f98456da43af835f90d5ec830aa70e3c7a90d5d698775ffe7ae0f292416851",
+        "createdTimestamp": "2021-09-29T21:18:09.450Z",
+        "lastValidation": "2024-12-01T11:26:33.886469Z",
+        "valid": true,
+        "lastUpdatedTimestamp": "2024-12-01T11:26:33.890Z",
+        "tags": [
+            {
+                "uuid": "dace7f44-9c42-4f27-b76a-a8bb305d2ad2",
+                "key": "source",
+                "value": "MBARI/VARS",
+                "mediaType": "text/plain"
+            }
+        ],
+        "boundingBoxes": [
+            {
+                "uuid": "f2e6c69b-1109-44c8-816e-8248c80c48bd",
+                "userDefinedKey": "33f84c48-01f5-4e5c-4f66-fc4ceaa6b41e",
+                "concept": "Lampocteis cruentiventer",
+                "height": 126,
+                "observer": "master@mbari.org",
+                "width": 147,
+                "x": 252,
+                "y": 107,
+                "rejected": false,
+                "verified": false,
+                "lastUpdatedTimestamp": "2021-11-01T17:34:43.780Z",
+                "createdTimestamp": "2021-09-29T21:18:11.104Z"
+            }
+        ]
+    },
+    {
+        "uuid": "35a2690e-23ad-42b7-94d2-7fb8d178947a",
+        "url": "https://database.fathomnet.org/static/m3/framegrabs/Ventana/stills/1999/295/03_29_30_22.png",
+        "local_path": "fathomnet_data\\Lampocteis_cruentiventer\\images\\Lampocteis_cruentiventer_15.jpg",
+        "contributorsEmail": "brian@mbari.org",
+        "width": 720,
+        "height": 366,
+        "imagingType": "ROV",
+        "salinity": 34.36399841308594,
+        "temperatureCelsius": 4.7769999504089355,
+        "oxygenMlL": 0.1899999976158142,
+        "latitude": 36.714437,
+        "longitude": -122.069147,
+        "sha256": "7663701ce952c404a0da09aa5548d82f36bcf41d07007efcfa1e8110ec0a3442",
+        "createdTimestamp": "2021-09-29T21:16:43.861Z",
+        "lastValidation": "2024-12-01T11:43:10.315040Z",
+        "valid": true,
+        "lastUpdatedTimestamp": "2024-12-01T11:43:10.325Z",
+        "tags": [
+            {
+                "uuid": "b7b1fa71-a867-471a-88d4-37641fed5156",
+                "key": "source",
+                "value": "MBARI/VARS",
+                "mediaType": "text/plain"
+            }
+        ],
+        "boundingBoxes": [
+            {
+                "uuid": "06060d80-c6b7-4389-9ed3-ed722b2a3440",
+                "userDefinedKey": "c408fc4d-438c-42db-b56e-959a2220b51e",
+                "concept": "Lampocteis cruentiventer",
+                "height": 89,
+                "observer": "master@mbari.org",
+                "width": 140,
+                "x": 246,
+                "y": 156,
+                "rejected": false,
+                "verified": false,
+                "lastUpdatedTimestamp": "2021-11-01T17:41:00.031Z",
+                "createdTimestamp": "2021-09-29T21:16:45.312Z"
+            }
+        ]
+    },
+    {
+        "uuid": "7492487a-5ac1-48fb-8e7c-a1757e4d32f7",
+        "url": "https://database.fathomnet.org/static/m3/framegrabs/Ventana/stills/1999/295/03_30_38_20.png",
+        "local_path": "fathomnet_data\\Lampocteis_cruentiventer\\images\\Lampocteis_cruentiventer_16.jpg",
+        "contributorsEmail": "brian@mbari.org",
+        "width": 720,
+        "height": 366,
+        "imagingType": "ROV",
+        "salinity": 34.36199951171875,
+        "temperatureCelsius": 4.7820000648498535,
+        "oxygenMlL": 0.1899999976158142,
+        "latitude": 36.714237,
+        "longitude": -122.069723,
+        "sha256": "d9f5445ab4dacbe5022b9d0677170e99e7a3163ff77f2ee6fce8e30de7168396",
+        "createdTimestamp": "2021-09-29T21:17:17.407Z",
+        "lastValidation": "2024-12-01T11:36:32.881663Z",
+        "valid": true,
+        "lastUpdatedTimestamp": "2024-12-01T11:36:32.893Z",
+        "tags": [
+            {
+                "uuid": "6303b528-288e-4c60-b68b-bb2e1a30a609",
+                "key": "source",
+                "value": "MBARI/VARS",
+                "mediaType": "text/plain"
+            }
+        ],
+        "boundingBoxes": [
+            {
+                "uuid": "540a0cdf-34b6-4973-ad5f-c092378e62c2",
+                "userDefinedKey": "b49af775-02a2-427c-db6f-f506e6edb41e",
+                "concept": "Lampocteis cruentiventer",
+                "height": 246,
+                "observer": "master@mbari.org",
+                "width": 319,
+                "x": 244,
+                "y": 117,
+                "rejected": false,
+                "verified": false,
+                "lastUpdatedTimestamp": "2021-11-01T17:38:29.963Z",
+                "createdTimestamp": "2021-09-29T21:17:18.892Z"
+            }
+        ]
+    },
+    {
+        "uuid": "3dfd4c6e-bb81-4425-96b4-dc24050c195c",
+        "url": "https://database.fathomnet.org/static/m3/framegrabs/Ventana/stills/1999/295/03_30_44_05.png",
+        "local_path": "fathomnet_data\\Lampocteis_cruentiventer\\images\\Lampocteis_cruentiventer_17.jpg",
+        "contributorsEmail": "brian@mbari.org",
+        "width": 720,
+        "height": 366,
+        "imagingType": "ROV",
+        "salinity": 34.36199951171875,
+        "temperatureCelsius": 4.7820000648498535,
+        "oxygenMlL": 0.1899999976158142,
+        "latitude": 36.714237,
+        "longitude": -122.069723,
+        "sha256": "81230f843a71b3dcef9a4b3dce7e3ebd90e5de1473fd9406e79d3b003bab5033",
+        "createdTimestamp": "2021-09-29T21:26:19.341Z",
+        "lastValidation": "2024-12-01T10:31:26.996335Z",
+        "valid": true,
+        "lastUpdatedTimestamp": "2024-12-01T10:31:27.002Z",
+        "tags": [
+            {
+                "uuid": "76dfbc44-f9a9-428f-8cb7-b97c04318326",
+                "key": "source",
+                "value": "MBARI/VARS",
+                "mediaType": "text/plain"
+            }
+        ],
+        "boundingBoxes": [
+            {
+                "uuid": "9e71487b-ba2d-4799-ac1d-1c99251967fd",
+                "userDefinedKey": "74fed4c4-f7c8-4b59-2b63-2f0c8e76b51e",
+                "concept": "Lampocteis cruentiventer",
+                "height": 254,
+                "observer": "master@mbari.org",
+                "width": 347,
+                "x": 89,
+                "y": 76,
+                "rejected": false,
+                "verified": false,
+                "lastUpdatedTimestamp": "2021-11-01T16:58:37.597Z",
+                "createdTimestamp": "2021-09-29T21:26:21.002Z"
+            }
+        ]
+    },
+    {
+        "uuid": "57403567-fc2f-43d3-8241-4bd432d88447",
+        "url": "https://database.fathomnet.org/static/m3/framegrabs/Ventana/stills/1999/295/03_31_14_05.png",
+        "local_path": "fathomnet_data\\Lampocteis_cruentiventer\\images\\Lampocteis_cruentiventer_18.jpg",
+        "contributorsEmail": "brian@mbari.org",
+        "width": 720,
+        "height": 366,
+        "imagingType": "ROV",
+        "salinity": 34.36199951171875,
+        "temperatureCelsius": 4.7829999923706055,
+        "oxygenMlL": 0.1899999976158142,
+        "latitude": 36.714315,
+        "longitude": -122.070437,
+        "sha256": "2338a17decfa7bdc467689a06dca9d1058f091911f0dc284982866d58cdba87f",
+        "createdTimestamp": "2021-09-29T21:25:38.475Z",
+        "lastValidation": "2024-12-01T10:35:24.441231Z",
+        "valid": true,
+        "lastUpdatedTimestamp": "2024-12-01T10:35:24.448Z",
+        "tags": [
+            {
+                "uuid": "ebd47b62-0ef7-45c3-a8f7-5007487d7708",
+                "key": "source",
+                "value": "MBARI/VARS",
+                "mediaType": "text/plain"
+            }
+        ],
+        "boundingBoxes": [
+            {
+                "uuid": "fb6d2866-8f38-4ecf-b402-39bb6559f20f",
+                "userDefinedKey": "c0696649-898b-4c5a-cd67-67a802a7b41e",
+                "concept": "Lampocteis cruentiventer",
+                "height": 301,
+                "observer": "master@mbari.org",
+                "width": 288,
+                "x": 224,
+                "y": 61,
+                "rejected": false,
+                "verified": false,
+                "lastUpdatedTimestamp": "2021-11-01T17:00:10.497Z",
+                "createdTimestamp": "2021-09-29T21:25:40.043Z"
+            }
+        ]
+    },
+    {
+        "uuid": "d7b824b3-d063-4937-9ce3-6aed769263c2",
+        "url": "https://database.fathomnet.org/static/m3/framegrabs/Ventana/stills/1999/295/03_31_22_04.png",
+        "local_path": "fathomnet_data\\Lampocteis_cruentiventer\\images\\Lampocteis_cruentiventer_19.jpg",
+        "contributorsEmail": "brian@mbari.org",
+        "width": 720,
+        "height": 366,
+        "imagingType": "ROV",
+        "salinity": 34.361000061035156,
+        "temperatureCelsius": 4.784999847412109,
+        "oxygenMlL": 0.1899999976158142,
+        "latitude": 36.713758,
+        "longitude": -122.069712,
+        "sha256": "4e44881f43bbf7215392e876cd8c6ebec30add574abb8c4eb1543d01edd93e71",
+        "createdTimestamp": "2021-09-29T21:18:32.263Z",
+        "lastValidation": "2024-12-01T11:23:19.746187Z",
+        "valid": true,
+        "lastUpdatedTimestamp": "2024-12-01T11:23:19.750Z",
+        "tags": [
+            {
+                "uuid": "6146bcc4-9d15-4a67-ab62-a26a8bb54303",
+                "key": "source",
+                "value": "MBARI/VARS",
+                "mediaType": "text/plain"
+            }
+        ],
+        "boundingBoxes": [
+            {
+                "uuid": "69029fe8-fd51-4ef7-aaff-bf427820932d",
+                "userDefinedKey": "68ede647-196b-4709-836d-e8230e20b51e",
+                "concept": "Lampocteis cruentiventer",
+                "height": 351,
+                "observer": "master@mbari.org",
+                "width": 321,
+                "x": 299,
+                "y": 2,
+                "rejected": false,
+                "verified": false,
+                "lastUpdatedTimestamp": "2021-11-01T17:33:19.944Z",
+                "createdTimestamp": "2021-09-29T21:18:33.911Z"
+            }
+        ]
+    },
+    {
+        "uuid": "aa559f95-1e31-4d52-bfb6-3c6ef97aeac9",
+        "url": "https://database.fathomnet.org/static/m3/framegrabs/Ventana/stills/1999/295/03_31_29_04.png",
+        "local_path": "fathomnet_data\\Lampocteis_cruentiventer\\images\\Lampocteis_cruentiventer_20.jpg",
+        "contributorsEmail": "brian@mbari.org",
+        "width": 720,
+        "height": 366,
+        "imagingType": "ROV",
+        "salinity": 34.36399841308594,
+        "temperatureCelsius": 4.784999847412109,
+        "oxygenMlL": 0.1899999976158142,
+        "latitude": 36.714397,
+        "longitude": -122.06976,
+        "sha256": "c9f27a1fd95e1bc8412e0dec3e9df850755394e3065b90f6e612e9040d3efc5c",
+        "createdTimestamp": "2021-09-29T21:15:57.735Z",
+        "lastValidation": "2024-12-01T11:54:49.654511Z",
+        "valid": true,
+        "lastUpdatedTimestamp": "2024-12-01T11:54:49.660Z",
+        "tags": [
+            {
+                "uuid": "a089bb79-7421-4f4c-8f17-01d352524a92",
+                "key": "source",
+                "value": "MBARI/VARS",
+                "mediaType": "text/plain"
+            }
+        ],
+        "boundingBoxes": [
+            {
+                "uuid": "d3a79884-813e-4beb-a2d8-7f9b938bcf10",
+                "userDefinedKey": "e5c6ecff-015e-448b-8169-3c9160d5b41e",
+                "concept": "Lampocteis cruentiventer",
+                "height": 245,
+                "observer": "master@mbari.org",
+                "width": 303,
+                "x": 196,
+                "y": 118,
+                "rejected": false,
+                "verified": false,
+                "lastUpdatedTimestamp": "2021-11-01T17:45:25.232Z",
+                "createdTimestamp": "2021-09-29T21:15:59.287Z"
+            }
+        ]
+    },
+    {
+        "uuid": "ce8b1a67-96c7-4937-8848-86693af90949",
+        "url": "https://database.fathomnet.org/static/m3/framegrabs/Tiburon/stills/2000/105/06_56_21_03.png",
+        "local_path": "fathomnet_data\\Lampocteis_cruentiventer\\images\\Lampocteis_cruentiventer_21.jpg",
+        "contributorsEmail": "brian@mbari.org",
+        "width": 639,
+        "height": 486,
+        "imagingType": "ROV",
+        "salinity": 34.402000427246094,
+        "temperatureCelsius": 2.986999988555908,
+        "oxygenMlL": 0.8100000023841858,
+        "latitude": 36.671367,
+        "longitude": -122.109682,
+        "sha256": "f1943e1475f65e8ff0b6074d1b5821782b41ffc806a3cdb92ebe1f03b6ccfe21",
+        "createdTimestamp": "2021-09-29T21:22:34.865Z",
+        "lastValidation": "2024-12-01T10:52:30.041092Z",
+        "valid": true,
+        "lastUpdatedTimestamp": "2024-12-01T10:52:30.055Z",
+        "tags": [
+            {
+                "uuid": "5c8c266f-b423-4bfc-934d-eab655093dec",
+                "key": "source",
+                "value": "MBARI/VARS",
+                "mediaType": "text/plain"
+            }
+        ],
+        "boundingBoxes": [
+            {
+                "uuid": "39e0c35c-f6d9-4df3-960d-1520cfe5e188",
+                "userDefinedKey": "4c861c72-99d8-4733-de6b-85b9be76b51e",
+                "concept": "Lampocteis cruentiventer",
+                "height": 84,
+                "observer": "master@mbari.org",
+                "width": 97,
+                "x": 172,
+                "y": 148,
+                "rejected": false,
+                "verified": false,
+                "lastUpdatedTimestamp": "2021-11-01T17:21:00.429Z",
+                "createdTimestamp": "2021-09-29T21:22:36.524Z"
+            }
+        ]
+    },
+    {
+        "uuid": "227d934f-0a97-414f-8735-31df13167640",
+        "url": "https://database.fathomnet.org/static/m3/framegrabs/Tiburon/stills/2000/105/06_56_36_02.png",
+        "local_path": "fathomnet_data\\Lampocteis_cruentiventer\\images\\Lampocteis_cruentiventer_22.jpg",
+        "contributorsEmail": "brian@mbari.org",
+        "width": 640,
+        "height": 486,
+        "imagingType": "ROV",
+        "salinity": 34.4010009765625,
+        "temperatureCelsius": 2.9860000610351562,
+        "oxygenMlL": 0.800000011920929,
+        "latitude": 36.671369,
+        "longitude": -122.109684,
+        "sha256": "ed2704bbd1e5f98730670deb3abf3f9c806fd978cce1749c40052d569c6fc044",
+        "createdTimestamp": "2021-09-29T21:23:08.398Z",
+        "lastValidation": "2024-12-01T10:49:42.792919Z",
+        "valid": true,
+        "lastUpdatedTimestamp": "2024-12-01T10:49:42.772Z",
+        "tags": [
+            {
+                "uuid": "bb03b838-bd00-40d5-9ef5-3bc2c66d8942",
+                "key": "source",
+                "value": "MBARI/VARS",
+                "mediaType": "text/plain"
+            }
+        ],
+        "boundingBoxes": [
+            {
+                "uuid": "e5a8c212-31fc-488b-a6e8-3e5da72233af",
+                "userDefinedKey": "aa344544-4315-4fc7-e163-198bb7edb41e",
+                "concept": "Lampocteis cruentiventer",
+                "height": 203,
+                "observer": "oska",
+                "width": 225,
+                "x": 146,
+                "y": 77,
+                "rejected": false,
+                "verified": false,
+                "lastUpdatedTimestamp": "2021-09-29T21:23:10.045Z",
+                "createdTimestamp": "2021-09-29T21:23:10.045Z"
+            }
+        ]
+    },
+    {
+        "uuid": "d5d8b90a-f6ad-4cf9-84e5-3cc8359dcc37",
+        "url": "https://database.fathomnet.org/static/m3/framegrabs/Tiburon/stills/2000/105/06_56_49_16.png",
+        "local_path": "fathomnet_data\\Lampocteis_cruentiventer\\images\\Lampocteis_cruentiventer_23.jpg",
+        "contributorsEmail": "brian@mbari.org",
+        "width": 639,
+        "height": 486,
+        "imagingType": "ROV",
+        "salinity": 34.39799880981445,
+        "temperatureCelsius": 2.986999988555908,
+        "oxygenMlL": 0.800000011920929,
+        "latitude": 36.671375,
+        "longitude": -122.109689,
+        "sha256": "0792409a64c4a5165b8a2c35fa3bab1d37bf828a010e13e8f94af43b39012954",
+        "createdTimestamp": "2021-09-29T21:20:28.467Z",
+        "lastValidation": "2024-12-01T11:07:39.532201Z",
+        "valid": true,
+        "lastUpdatedTimestamp": "2024-12-01T11:07:39.540Z",
+        "tags": [
+            {
+                "uuid": "eb95edff-47fe-43e5-9453-ecd8b0c4525f",
+                "key": "source",
+                "value": "MBARI/VARS",
+                "mediaType": "text/plain"
+            }
+        ],
+        "boundingBoxes": [
+            {
+                "uuid": "07dce282-d9e6-4078-bd5d-35c748095dde",
+                "userDefinedKey": "5d962ab8-8e70-4398-9d6c-787e9076b51e",
+                "concept": "Lampocteis cruentiventer",
+                "height": 256,
+                "observer": "master@mbari.org",
+                "width": 323,
+                "x": 101,
+                "y": 33,
+                "rejected": false,
+                "verified": false,
+                "lastUpdatedTimestamp": "2021-11-01T17:26:57.308Z",
+                "createdTimestamp": "2021-09-29T21:20:30.316Z"
+            }
+        ]
+    },
+    {
+        "uuid": "0d564333-57ab-4ac9-a444-653480c7a0ed",
+        "url": "https://database.fathomnet.org/static/m3/framegrabs/Tiburon/stills/2000/106/04_06_00_16.png",
+        "local_path": "fathomnet_data\\Lampocteis_cruentiventer\\images\\Lampocteis_cruentiventer_24.jpg",
+        "contributorsEmail": "brian@mbari.org",
+        "width": 639,
+        "height": 486,
+        "imagingType": "ROV",
+        "salinity": 34.48899841308594,
+        "temperatureCelsius": 2.009000062942505,
+        "oxygenMlL": 1.7799999713897705,
+        "latitude": 36.584968,
+        "longitude": -122.519293,
+        "sha256": "c5b4cd0e86bbf2f8e3fff2cbb41a71ed09f53dcd6d5ce4f77e0e34fe5018971c",
+        "createdTimestamp": "2021-09-29T21:23:44.291Z",
+        "lastValidation": "2024-12-01T10:46:14.292056Z",
+        "valid": true,
+        "lastUpdatedTimestamp": "2024-12-01T10:46:14.296Z",
+        "tags": [
+            {
+                "uuid": "0c960fa4-5731-4a37-8824-25d6239819ed",
+                "key": "source",
+                "value": "MBARI/VARS",
+                "mediaType": "text/plain"
+            }
+        ],
+        "boundingBoxes": [
+            {
+                "uuid": "a4279b39-000f-4b2a-b75b-f75e019bc121",
+                "userDefinedKey": "029e8aef-2bba-471e-9163-e79cf45cb51e",
+                "concept": "Lampocteis cruentiventer",
+                "height": 200,
+                "observer": "master@mbari.org",
+                "width": 191,
+                "x": 203,
+                "y": 161,
+                "rejected": false,
+                "verified": false,
+                "lastUpdatedTimestamp": "2021-11-01T17:18:26.807Z",
+                "createdTimestamp": "2021-09-29T21:23:46.083Z"
+            }
+        ]
+    },
+    {
+        "uuid": "04c26ce9-5fde-4e45-9a10-aceb7bc80b97",
+        "url": "https://database.fathomnet.org/static/m3/framegrabs/Tiburon/stills/2000/106/04_06_47_00.png",
+        "local_path": "fathomnet_data\\Lampocteis_cruentiventer\\images\\Lampocteis_cruentiventer_25.jpg",
+        "contributorsEmail": "brian@mbari.org",
+        "width": 639,
+        "height": 486,
+        "imagingType": "ROV",
+        "salinity": 34.48400115966797,
+        "temperatureCelsius": 2.009999990463257,
+        "oxygenMlL": 1.7799999713897705,
+        "latitude": 36.584953,
+        "longitude": -122.51931,
+        "sha256": "9f21a1912f4a3bd9d6918451b044537f97dc36b21da7ea430efc5520f7cae4fd",
+        "createdTimestamp": "2021-09-29T21:17:48.226Z",
+        "lastValidation": "2024-12-01T11:29:58.214739Z",
+        "valid": true,
+        "lastUpdatedTimestamp": "2024-12-01T11:29:58.220Z",
+        "tags": [
+            {
+                "uuid": "9d7046c3-5343-426d-9cfa-b33ef3e93d01",
+                "key": "source",
+                "value": "MBARI/VARS",
+                "mediaType": "text/plain"
+            }
+        ],
+        "boundingBoxes": [
+            {
+                "uuid": "5ea79473-78db-4038-8adb-b7de9505ab49",
+                "userDefinedKey": "b2863efb-de49-403f-1f64-e1e9b26ab51e",
+                "concept": "Lampocteis cruentiventer",
+                "height": 227,
+                "observer": "master@mbari.org",
+                "width": 250,
+                "x": 232,
+                "y": 209,
+                "rejected": false,
+                "verified": false,
+                "lastUpdatedTimestamp": "2021-11-01T17:36:05.347Z",
+                "createdTimestamp": "2021-09-29T21:17:49.791Z"
+            }
+        ]
+    },
+    {
+        "uuid": "58c6409c-aca5-47e6-a10d-1c263d4612a2",
+        "url": "https://database.fathomnet.org/static/m3/framegrabs/Tiburon/stills/2000/106/04_06_57_15.png",
+        "local_path": "fathomnet_data\\Lampocteis_cruentiventer\\images\\Lampocteis_cruentiventer_26.jpg",
+        "contributorsEmail": "brian@mbari.org",
+        "width": 639,
+        "height": 486,
+        "imagingType": "ROV",
+        "salinity": 34.492000579833984,
+        "temperatureCelsius": 2.009000062942505,
+        "oxygenMlL": 1.7799999713897705,
+        "latitude": 36.584956,
+        "longitude": -122.519313,
+        "sha256": "8a9c4f70f94dc63e0cef4087391e7b351c3738dc0222bf15ecf956caf60929f3",
+        "createdTimestamp": "2021-09-29T21:15:46.384Z",
+        "lastValidation": "2024-12-01T11:59:14.889233Z",
+        "valid": true,
+        "lastUpdatedTimestamp": "2024-12-01T11:59:14.893Z",
+        "tags": [
+            {
+                "uuid": "5676fe75-9d7f-4df8-a46c-ddabc4c001e3",
+                "key": "source",
+                "value": "MBARI/VARS",
+                "mediaType": "text/plain"
+            }
+        ],
+        "boundingBoxes": [
+            {
+                "uuid": "5a7d7f36-5556-4d58-84d3-fed6c782b2a1",
+                "userDefinedKey": "e832708c-f90e-4ff6-256e-43007d96b41e",
+                "concept": "Lampocteis cruentiventer",
+                "height": 202,
+                "observer": "master@mbari.org",
+                "width": 289,
+                "x": 203,
+                "y": 33,
+                "rejected": false,
+                "verified": false,
+                "lastUpdatedTimestamp": "2021-11-01T17:47:07.984Z",
+                "createdTimestamp": "2021-09-29T21:15:48.390Z"
+            }
+        ]
+    },
+    {
+        "uuid": "5ea0bbb4-4e59-4f8e-b1b5-d3e4c2824fe7",
+        "url": "https://database.fathomnet.org/static/m3/framegrabs/Tiburon/stills/2000/106/04_12_59_19.png",
+        "local_path": "fathomnet_data\\Lampocteis_cruentiventer\\images\\Lampocteis_cruentiventer_27.jpg",
+        "contributorsEmail": "brian@mbari.org",
+        "width": 639,
+        "height": 486,
+        "imagingType": "ROV",
+        "salinity": 34.49300003051758,
+        "temperatureCelsius": 1.934000015258789,
+        "oxygenMlL": 1.940000057220459,
+        "latitude": 36.584949,
+        "longitude": -122.519279,
+        "sha256": "637daee011d1f1caf3fe8e7b2df4213b214fb2f1ab2914c9912311a2a273ca6d",
+        "createdTimestamp": "2021-09-29T21:21:29.433Z",
+        "lastValidation": "2024-12-01T11:00:16.691534Z",
+        "valid": true,
+        "lastUpdatedTimestamp": "2024-12-01T11:00:16.729Z",
+        "tags": [
+            {
+                "uuid": "2c109134-2546-42e1-8b1e-a5b5e64e7f2e",
+                "key": "source",
+                "value": "MBARI/VARS",
+                "mediaType": "text/plain"
+            }
+        ],
+        "boundingBoxes": [
+            {
+                "uuid": "581b6e0b-c083-4f92-8fdf-da13470557de",
+                "userDefinedKey": "5805f9cd-157d-4703-4c65-e7e60b96b41e",
+                "concept": "Lampocteis cruentiventer",
+                "height": 194,
+                "observer": "master@mbari.org",
+                "width": 225,
+                "x": 119,
+                "y": 3,
+                "rejected": false,
+                "verified": false,
+                "lastUpdatedTimestamp": "2021-11-01T17:24:17.597Z",
+                "createdTimestamp": "2021-09-29T21:21:31.049Z"
+            }
+        ]
+    },
+    {
+        "uuid": "9a9c078e-476a-4189-b742-343e5e717590",
+        "url": "https://database.fathomnet.org/static/m3/framegrabs/Tiburon/stills/2000/106/04_13_04_19.png",
+        "local_path": "fathomnet_data\\Lampocteis_cruentiventer\\images\\Lampocteis_cruentiventer_28.jpg",
+        "contributorsEmail": "brian@mbari.org",
+        "width": 639,
+        "height": 486,
+        "imagingType": "ROV",
+        "salinity": 34.499000549316406,
+        "temperatureCelsius": 1.934999942779541,
+        "oxygenMlL": 1.940000057220459,
+        "latitude": 36.584938,
+        "longitude": -122.519283,
+        "sha256": "2657847719ab652c9b0631ef5c36e44d0546deb5272213a1fac746725e194fbf",
+        "createdTimestamp": "2021-09-29T21:32:07.509Z",
+        "lastValidation": "2025-02-01T09:58:14.238995Z",
+        "valid": true,
+        "lastUpdatedTimestamp": "2025-02-01T09:58:14.246Z",
+        "tags": [
+            {
+                "uuid": "6b9e4871-8a1c-41e4-af23-0a12936a883b",
+                "key": "source",
+                "value": "MBARI/VARS",
+                "mediaType": "text/plain"
+            }
+        ],
+        "boundingBoxes": [
+            {
+                "uuid": "01624512-bb51-450e-bd99-62b468f2248f",
+                "userDefinedKey": "dcc030fa-75fd-4bdd-2166-70697976b51e",
+                "concept": "Lampocteis cruentiventer",
+                "height": 179,
+                "observer": "master@mbari.org",
+                "width": 209,
+                "x": 184,
+                "y": 79,
+                "rejected": false,
+                "verified": false,
+                "lastUpdatedTimestamp": "2021-11-01T16:48:14.595Z",
+                "createdTimestamp": "2021-09-29T21:32:09.098Z"
+            }
+        ]
+    },
+    {
+        "uuid": "ced473f6-bfa0-40ff-b752-fb92df61e19e",
+        "url": "https://database.fathomnet.org/static/m3/framegrabs/Tiburon/stills/2000/106/04_13_20_18.png",
+        "local_path": "fathomnet_data\\Lampocteis_cruentiventer\\images\\Lampocteis_cruentiventer_29.jpg",
+        "contributorsEmail": "brian@mbari.org",
+        "width": 639,
+        "height": 486,
+        "imagingType": "ROV",
+        "salinity": 34.49700164794922,
+        "temperatureCelsius": 1.9359999895095825,
+        "oxygenMlL": 1.940000057220459,
+        "latitude": 36.584929,
+        "longitude": -122.519285,
+        "sha256": "9e981411fe8df87417836729c265a3193ea55fe4826cbf3806b24e3c8d134ca5",
+        "createdTimestamp": "2021-09-29T21:16:36.264Z",
+        "lastValidation": "2024-12-01T11:45:41.357019Z",
+        "valid": true,
+        "lastUpdatedTimestamp": "2024-12-01T11:45:41.362Z",
+        "tags": [
+            {
+                "uuid": "b5bb7735-88d7-44e3-93f5-6c2268cb280e",
+                "key": "source",
+                "value": "MBARI/VARS",
+                "mediaType": "text/plain"
+            }
+        ],
+        "boundingBoxes": [
+            {
+                "uuid": "80f6d76c-be84-4118-9e8c-55913e1cea78",
+                "userDefinedKey": "0f9b91b3-2206-480d-1d63-a2dbc65eb51e",
+                "concept": "Lampocteis cruentiventer",
+                "height": 307,
+                "observer": "master@mbari.org",
+                "width": 344,
+                "x": 225,
+                "y": 119,
+                "rejected": false,
+                "verified": false,
+                "lastUpdatedTimestamp": "2021-11-01T17:41:55.372Z",
+                "createdTimestamp": "2021-09-29T21:16:37.729Z"
+            }
+        ]
+    },
+    {
+        "uuid": "59c6070b-892d-4fc3-9640-063b9f37591e",
+        "url": "https://database.fathomnet.org/static/m3/framegrabs/Tiburon/stills/2000/106/04_13_25_03.png",
+        "local_path": "fathomnet_data\\Lampocteis_cruentiventer\\images\\Lampocteis_cruentiventer_30.jpg",
+        "contributorsEmail": "brian@mbari.org",
+        "width": 639,
+        "height": 486,
+        "imagingType": "ROV",
+        "salinity": 34.49399948120117,
+        "temperatureCelsius": 1.9359999895095825,
+        "oxygenMlL": 1.940000057220459,
+        "latitude": 36.584922,
+        "longitude": -122.519287,
+        "sha256": "72e8b52131f260db9a4510a3a940c7a24d51bc21ce021b354e3d4c0ecfc10951",
+        "createdTimestamp": "2021-09-29T21:17:58.621Z",
+        "lastValidation": "2024-12-01T11:28:29.700955Z",
+        "valid": true,
+        "lastUpdatedTimestamp": "2024-12-01T11:28:29.705Z",
+        "tags": [
+            {
+                "uuid": "6a28ae36-e2f3-4979-b182-738057a5548d",
+                "key": "source",
+                "value": "MBARI/VARS",
+                "mediaType": "text/plain"
+            }
+        ],
+        "boundingBoxes": [
+            {
+                "uuid": "e76793e1-a5f1-48bc-bbac-f06861b35ef0",
+                "userDefinedKey": "23d9fae3-b709-44fa-7268-cab51d96b41e",
+                "concept": "Lampocteis cruentiventer",
+                "height": 313,
+                "observer": "master@mbari.org",
+                "width": 348,
+                "x": 201,
+                "y": 115,
+                "rejected": false,
+                "verified": false,
+                "lastUpdatedTimestamp": "2021-11-01T17:35:29.400Z",
+                "createdTimestamp": "2021-09-29T21:18:00.353Z"
+            }
+        ]
+    },
+    {
+        "uuid": "e6341bd5-e792-4457-9708-fcd99b172a20",
+        "url": "https://database.fathomnet.org/static/m3/framegrabs/Tiburon/stills/2000/106/04_13_32_18.png",
+        "local_path": "fathomnet_data\\Lampocteis_cruentiventer\\images\\Lampocteis_cruentiventer_31.jpg",
+        "contributorsEmail": "brian@mbari.org",
+        "width": 639,
+        "height": 486,
+        "imagingType": "ROV",
+        "salinity": 34.49399948120117,
+        "temperatureCelsius": 1.9359999895095825,
+        "oxygenMlL": 1.940000057220459,
+        "latitude": 36.584922,
+        "longitude": -122.519287,
+        "sha256": "7afea876fafbca3a0648e2f520d203d06499c7b31faca2695d2edd8e3ee38c21",
+        "createdTimestamp": "2021-09-29T21:23:08.523Z",
+        "lastValidation": "2024-12-01T10:49:05.414246Z",
+        "valid": true,
+        "lastUpdatedTimestamp": "2024-12-01T10:49:05.316Z",
+        "tags": [
+            {
+                "uuid": "5e71253a-9d73-4ab3-a626-84fe6bd3856d",
+                "key": "source",
+                "value": "MBARI/VARS",
+                "mediaType": "text/plain"
+            }
+        ],
+        "boundingBoxes": [
+            {
+                "uuid": "304e21f4-d6d4-4d0d-8175-1c7e7b21ca52",
+                "userDefinedKey": "86698673-f6af-44e9-f867-0d53ef45b51e",
+                "concept": "Lampocteis cruentiventer",
+                "height": 309,
+                "observer": "master@mbari.org",
+                "width": 353,
+                "x": 227,
+                "y": 97,
+                "rejected": false,
+                "verified": false,
+                "lastUpdatedTimestamp": "2021-11-01T17:19:34.247Z",
+                "createdTimestamp": "2021-09-29T21:23:10.235Z"
+            }
+        ]
+    },
+    {
+        "uuid": "e8e478a7-4869-491a-9700-bb9d59bc9c70",
+        "url": "https://database.fathomnet.org/static/m3/framegrabs/Tiburon/stills/2000/106/04_13_43_17.png",
+        "local_path": "fathomnet_data\\Lampocteis_cruentiventer\\images\\Lampocteis_cruentiventer_32.jpg",
+        "contributorsEmail": "brian@mbari.org",
+        "width": 639,
+        "height": 486,
+        "imagingType": "ROV",
+        "salinity": 34.49800109863281,
+        "temperatureCelsius": 1.9359999895095825,
+        "oxygenMlL": 1.940000057220459,
+        "latitude": 36.584912,
+        "longitude": -122.519274,
+        "sha256": "6b2914aab743c123f6241901a3f3e78a203f4fd4129a88bdb63c351b2b53efcd",
+        "createdTimestamp": "2021-09-29T21:23:08.539Z",
+        "lastValidation": "2024-12-01T10:48:59.064760Z",
+        "valid": true,
+        "lastUpdatedTimestamp": "2024-12-01T10:48:58.961Z",
+        "tags": [
+            {
+                "uuid": "c5724515-16a9-4890-8093-6e38c24205b6",
+                "key": "source",
+                "value": "MBARI/VARS",
+                "mediaType": "text/plain"
+            }
+        ],
+        "boundingBoxes": [
+            {
+                "uuid": "ece22f5b-62c7-4bec-976a-f2f1b0f41465",
+                "userDefinedKey": "50bb05fe-35fb-444a-ae6b-ee789252b51e",
+                "concept": "Lampocteis cruentiventer",
+                "height": 249,
+                "observer": "master@mbari.org",
+                "width": 282,
+                "x": 272,
+                "y": 149,
+                "rejected": false,
+                "verified": false,
+                "lastUpdatedTimestamp": "2021-11-01T17:19:34.138Z",
+                "createdTimestamp": "2021-09-29T21:23:10.258Z"
+            }
+        ]
+    },
+    {
+        "uuid": "bc89118f-0342-44eb-84e5-0dbb959f234b",
+        "url": "https://database.fathomnet.org/static/m3/framegrabs/Tiburon/stills/2000/106/04_13_36_03.png",
+        "local_path": "fathomnet_data\\Lampocteis_cruentiventer\\images\\Lampocteis_cruentiventer_33.jpg",
+        "contributorsEmail": "brian@mbari.org",
+        "width": 639,
+        "height": 486,
+        "imagingType": "ROV",
+        "salinity": 34.49800109863281,
+        "temperatureCelsius": 1.9359999895095825,
+        "oxygenMlL": 1.940000057220459,
+        "latitude": 36.584912,
+        "longitude": -122.519274,
+        "sha256": "d20eb64007230531a038e10fd4d12947ca950046f077049ea01586d4c98986f1",
+        "createdTimestamp": "2021-09-29T21:23:08.623Z",
+        "lastValidation": "2024-12-01T10:48:45.519959Z",
+        "valid": true,
+        "lastUpdatedTimestamp": "2024-12-01T10:48:45.414Z",
+        "tags": [
+            {
+                "uuid": "b6452144-0a7b-4288-aa51-8f1fb0117afa",
+                "key": "source",
+                "value": "MBARI/VARS",
+                "mediaType": "text/plain"
+            }
+        ],
+        "boundingBoxes": [
+            {
+                "uuid": "c6f7b32d-b6cc-475f-a230-b6a1481bc4a5",
+                "userDefinedKey": "960af56a-6d6b-4d42-2d65-f21cae6ab51e",
+                "concept": "Lampocteis cruentiventer",
+                "height": 305,
+                "observer": "master@mbari.org",
+                "width": 378,
+                "x": 192,
+                "y": 68,
+                "rejected": false,
+                "verified": false,
+                "lastUpdatedTimestamp": "2021-11-01T17:19:26.628Z",
+                "createdTimestamp": "2021-09-29T21:23:10.329Z"
+            }
+        ]
+    },
+    {
+        "uuid": "f0fb5a5e-eaeb-4205-9cf0-8bac69c31e4c",
+        "url": "https://database.fathomnet.org/static/m3/framegrabs/Tiburon/stills/2000/106/04_14_23_01.png",
+        "local_path": "fathomnet_data\\Lampocteis_cruentiventer\\images\\Lampocteis_cruentiventer_34.jpg",
+        "contributorsEmail": "brian@mbari.org",
+        "width": 639,
+        "height": 486,
+        "imagingType": "ROV",
+        "salinity": 34.494998931884766,
+        "temperatureCelsius": 1.9359999895095825,
+        "oxygenMlL": 1.940000057220459,
+        "latitude": 36.584925,
+        "longitude": -122.519281,
+        "sha256": "58dc201b356f82af768449a7aed7c393d073d4a4fc88c54b277e557594702b2a",
+        "createdTimestamp": "2021-09-29T21:20:14.222Z",
+        "lastValidation": "2024-12-01T11:09:48.570565Z",
+        "valid": true,
+        "lastUpdatedTimestamp": "2024-12-01T11:09:48.575Z",
+        "tags": [
+            {
+                "uuid": "74f6785c-e42b-4108-8660-ba1eaa15a63a",
+                "key": "source",
+                "value": "MBARI/VARS",
+                "mediaType": "text/plain"
+            }
+        ],
+        "boundingBoxes": [
+            {
+                "uuid": "53875ac3-5e3e-4d73-aa81-7eca9c4f9f9a",
+                "userDefinedKey": "2abcf6a0-5252-48ee-4167-508d1b5fb51e",
+                "concept": "Lampocteis cruentiventer",
+                "height": 33,
+                "observer": "master@mbari.org",
+                "width": 42,
+                "x": 362,
+                "y": 205,
+                "rejected": false,
+                "verified": false,
+                "lastUpdatedTimestamp": "2021-11-01T17:27:47.764Z",
+                "createdTimestamp": "2021-09-29T21:20:15.662Z"
+            }
+        ]
+    },
+    {
+        "uuid": "ebee0605-14e8-4303-9db7-b580a18dac9b",
+        "url": "https://database.fathomnet.org/static/m3/framegrabs/Ventana/stills/2000/270/02_26_47_03.png",
+        "local_path": "fathomnet_data\\Lampocteis_cruentiventer\\images\\Lampocteis_cruentiventer_35.jpg",
+        "contributorsEmail": "brian@mbari.org",
+        "width": 640,
+        "height": 366,
+        "imagingType": "ROV",
+        "salinity": 34.29100036621094,
+        "temperatureCelsius": 6.047999858856201,
+        "oxygenMlL": 0.6100000143051147,
+        "latitude": 36.71752,
+        "longitude": -122.068433,
+        "sha256": "d369071880aae8a257a2db5dec751929ccebd4d6713e7837f6e3d72b2be316f6",
+        "createdTimestamp": "2021-09-29T21:18:09.433Z",
+        "lastValidation": "2024-12-01T11:26:42.813247Z",
+        "valid": true,
+        "lastUpdatedTimestamp": "2024-12-01T11:26:42.821Z",
+        "tags": [
+            {
+                "uuid": "f151121c-1f89-44b8-88be-4c6f2ef064c6",
+                "key": "source",
+                "value": "MBARI/VARS",
+                "mediaType": "text/plain"
+            }
+        ],
+        "boundingBoxes": [
+            {
+                "uuid": "24bb8046-7ec0-44c4-b564-2c7e5b16ec76",
+                "userDefinedKey": "73cfd8f2-dddb-427c-0465-12d1f1a6b41e",
+                "concept": "Lampocteis cruentiventer",
+                "height": 83,
+                "observer": "master@mbari.org",
+                "width": 90,
+                "x": 273,
+                "y": 8,
+                "rejected": false,
+                "verified": false,
+                "lastUpdatedTimestamp": "2021-11-01T17:34:48.004Z",
+                "createdTimestamp": "2021-09-29T21:18:11.078Z"
+            }
+        ]
+    },
+    {
+        "uuid": "d179f18f-6607-44f3-a5c8-515da6f733f6",
+        "url": "https://database.fathomnet.org/static/m3/framegrabs/Ventana/stills/2000/270/02_26_55_03.png",
+        "local_path": "fathomnet_data\\Lampocteis_cruentiventer\\images\\Lampocteis_cruentiventer_36.jpg",
+        "contributorsEmail": "brian@mbari.org",
+        "width": 640,
+        "height": 366,
+        "imagingType": "ROV",
+        "salinity": 34.28799819946289,
+        "temperatureCelsius": 6.040999889373779,
+        "oxygenMlL": 0.6100000143051147,
+        "latitude": 36.717514,
+        "longitude": -122.068453,
+        "sha256": "d75db8fcdeabc5fc499a703dd20a99de8488dbef375c768c6c1460f1cd11dd3e",
+        "createdTimestamp": "2021-09-29T21:21:45.535Z",
+        "lastValidation": "2024-12-01T10:57:57.294680Z",
+        "valid": true,
+        "lastUpdatedTimestamp": "2024-12-01T10:57:57.302Z",
+        "tags": [
+            {
+                "uuid": "4cf2568b-79f1-4b9a-8232-0b3e38a837ae",
+                "key": "source",
+                "value": "MBARI/VARS",
+                "mediaType": "text/plain"
+            }
+        ],
+        "boundingBoxes": [
+            {
+                "uuid": "df7251c3-0e85-4fcc-a156-70571b1730c8",
+                "userDefinedKey": "6dde2547-a813-4d6a-c169-0bdc4f6bb51e",
+                "concept": "Lampocteis cruentiventer",
+                "height": 75,
+                "observer": "master@mbari.org",
+                "width": 72,
+                "x": 290,
+                "y": 231,
+                "rejected": false,
+                "verified": false,
+                "lastUpdatedTimestamp": "2021-11-01T17:23:22.139Z",
+                "createdTimestamp": "2021-09-29T21:21:47.170Z"
+            }
+        ]
+    },
+    {
+        "uuid": "b302df50-7631-4859-93e3-b080f8af5ba6",
+        "url": "https://database.fathomnet.org/static/m3/framegrabs/Ventana/stills/2000/270/02_27_06_17.png",
+        "local_path": "fathomnet_data\\Lampocteis_cruentiventer\\images\\Lampocteis_cruentiventer_37.jpg",
+        "contributorsEmail": "brian@mbari.org",
+        "width": 640,
+        "height": 366,
+        "imagingType": "ROV",
+        "salinity": 34.292999267578125,
+        "temperatureCelsius": 6.035999774932861,
+        "oxygenMlL": 0.6100000143051147,
+        "latitude": 36.717509,
+        "longitude": -122.068474,
+        "sha256": "9adb6e81f567fd3c337c3ab5de1c2320f9237f9cd903c69ba04278bc94e16603",
+        "createdTimestamp": "2021-09-29T21:28:51.510Z",
+        "lastValidation": "2025-01-01T09:59:02.010213Z",
+        "valid": true,
+        "lastUpdatedTimestamp": "2025-01-01T09:59:02.024Z",
+        "tags": [
+            {
+                "uuid": "7513418a-c8b6-4d4a-aee6-ee98045a6ebb",
+                "key": "source",
+                "value": "MBARI/VARS",
+                "mediaType": "text/plain"
+            }
+        ],
+        "boundingBoxes": [
+            {
+                "uuid": "c878b2ac-72c1-403d-8272-d1cb320f8c33",
+                "userDefinedKey": "542f742b-393d-47bd-106d-3ce46f96b41e",
+                "concept": "Lampocteis cruentiventer",
+                "height": 157,
+                "observer": "master@mbari.org",
+                "width": 131,
+                "x": 212,
+                "y": 65,
+                "rejected": false,
+                "verified": false,
+                "lastUpdatedTimestamp": "2021-11-01T16:53:31.068Z",
+                "createdTimestamp": "2021-09-29T21:28:53.011Z"
+            }
+        ]
+    },
+    {
+        "uuid": "3060b89e-3315-4c66-98fe-e0bd3f676977",
+        "url": "https://database.fathomnet.org/static/m3/framegrabs/Ventana/stills/2000/270/02_27_11_02.png",
+        "local_path": "fathomnet_data\\Lampocteis_cruentiventer\\images\\Lampocteis_cruentiventer_38.jpg",
+        "contributorsEmail": "brian@mbari.org",
+        "width": 640,
+        "height": 366,
+        "imagingType": "ROV",
+        "salinity": 34.29399871826172,
+        "temperatureCelsius": 6.052999973297119,
+        "oxygenMlL": 0.6000000238418579,
+        "latitude": 36.717496,
+        "longitude": -122.068499,
+        "sha256": "c034bda6b1c733e520d23a3c39bf6998ffb0225942905d00e5b1f7e6f0cb571e",
+        "createdTimestamp": "2021-09-29T21:15:52.124Z",
+        "lastValidation": "2024-12-01T11:57:18.960739Z",
+        "valid": true,
+        "lastUpdatedTimestamp": "2024-12-01T11:57:18.965Z",
+        "tags": [
+            {
+                "uuid": "10b8d20b-4e46-4ffa-95e8-6c9fc9bb28a6",
+                "key": "source",
+                "value": "MBARI/VARS",
+                "mediaType": "text/plain"
+            }
+        ],
+        "boundingBoxes": [
+            {
+                "uuid": "a04d597b-2169-4a57-8a19-710c23be5662",
+                "userDefinedKey": "9f9535f6-498d-44cb-1a6b-6581fba6b41e",
+                "concept": "Lampocteis cruentiventer",
+                "height": 176,
+                "observer": "master@mbari.org",
+                "width": 162,
+                "x": 221,
+                "y": 38,
+                "rejected": false,
+                "verified": false,
+                "lastUpdatedTimestamp": "2021-11-01T17:46:22.931Z",
+                "createdTimestamp": "2021-09-29T21:15:53.836Z"
+            }
+        ]
+    },
+    {
+        "uuid": "61a36206-1a84-4a30-9feb-f2d92b282e01",
+        "url": "https://database.fathomnet.org/static/m3/framegrabs/Ventana/stills/2000/270/02_27_14_18.png",
+        "local_path": "fathomnet_data\\Lampocteis_cruentiventer\\images\\Lampocteis_cruentiventer_39.jpg",
+        "contributorsEmail": "brian@mbari.org",
+        "width": 640,
+        "height": 366,
+        "imagingType": "ROV",
+        "salinity": 34.29399871826172,
+        "temperatureCelsius": 6.052999973297119,
+        "oxygenMlL": 0.6000000238418579,
+        "latitude": 36.717496,
+        "longitude": -122.068499,
+        "sha256": "3d9084515224a2a2f4a004d8c14123577f5df262a2bb72040b923f10f1a55413",
+        "createdTimestamp": "2021-09-29T21:22:17.845Z",
+        "lastValidation": "2024-12-01T10:53:51.422595Z",
+        "valid": true,
+        "lastUpdatedTimestamp": "2024-12-01T10:53:51.427Z",
+        "tags": [
+            {
+                "uuid": "e6d60035-9db1-424f-bef2-c0ff07c3fa91",
+                "key": "source",
+                "value": "MBARI/VARS",
+                "mediaType": "text/plain"
+            }
+        ],
+        "boundingBoxes": [
+            {
+                "uuid": "b8480ebf-f181-48cc-98c6-c99c3bcf281c",
+                "userDefinedKey": "463996a0-811e-45bb-7166-3efb1a96b41e",
+                "concept": "Lampocteis cruentiventer",
+                "height": 155,
+                "observer": "master@mbari.org",
+                "width": 215,
+                "x": 241,
+                "y": 167,
+                "rejected": false,
+                "verified": false,
+                "lastUpdatedTimestamp": "2021-11-01T17:21:39.317Z",
+                "createdTimestamp": "2021-09-29T21:22:19.592Z"
+            }
+        ]
+    },
+    {
+        "uuid": "45631bb7-8b81-4279-a0fa-e26a0b8252b2",
+        "url": "https://database.fathomnet.org/static/m3/framegrabs/Ventana/stills/2000/270/02_27_20_02.png",
+        "local_path": "fathomnet_data\\Lampocteis_cruentiventer\\images\\Lampocteis_cruentiventer_40.jpg",
+        "contributorsEmail": "brian@mbari.org",
+        "width": 640,
+        "height": 366,
+        "imagingType": "ROV",
+        "salinity": 34.29499816894531,
+        "temperatureCelsius": 6.039999961853027,
+        "oxygenMlL": 0.5899999737739563,
+        "latitude": 36.717505,
+        "longitude": -122.06851,
+        "sha256": "680884f517d492a011ab6a1137bf232ccce9dcbf81962cb1bde6a3c6730f16a9",
+        "createdTimestamp": "2021-09-29T21:18:20.439Z",
+        "lastValidation": "2024-12-01T11:26:02.988255Z",
+        "valid": true,
+        "lastUpdatedTimestamp": "2024-12-01T11:26:02.995Z",
+        "tags": [
+            {
+                "uuid": "ca0e4844-e466-438f-8661-8d0b94e6d0d3",
+                "key": "source",
+                "value": "MBARI/VARS",
+                "mediaType": "text/plain"
+            }
+        ],
+        "boundingBoxes": [
+            {
+                "uuid": "8d984e58-3115-46db-8e05-5687516023c0",
+                "userDefinedKey": "bfca607a-c5eb-4579-5b61-d674b6e1b41e",
+                "concept": "Lampocteis cruentiventer",
+                "height": 167,
+                "observer": "master@mbari.org",
+                "width": 257,
+                "x": 317,
+                "y": 78,
+                "rejected": false,
+                "verified": false,
+                "lastUpdatedTimestamp": "2021-11-01T17:34:35.637Z",
+                "createdTimestamp": "2021-09-29T21:18:22.116Z"
+            }
+        ]
+    },
+    {
+        "uuid": "39684591-ea5c-4f7f-9533-80571ab83236",
+        "url": "https://database.fathomnet.org/static/m3/framegrabs/Ventana/stills/2000/270/02_27_31_17.png",
+        "local_path": "fathomnet_data\\Lampocteis_cruentiventer\\images\\Lampocteis_cruentiventer_41.jpg",
+        "contributorsEmail": "brian@mbari.org",
+        "width": 640,
+        "height": 366,
+        "imagingType": "ROV",
+        "salinity": 34.29800033569336,
+        "temperatureCelsius": 6.040999889373779,
+        "oxygenMlL": 0.5899999737739563,
+        "latitude": 36.71747,
+        "longitude": -122.068552,
+        "sha256": "86973a6ae5c65faa670135837b6cae77d85ee860d506eab0f7efa799dece9ae6",
+        "createdTimestamp": "2021-09-29T21:24:03.249Z",
+        "lastValidation": "2024-12-01T10:43:40.594172Z",
+        "valid": true,
+        "lastUpdatedTimestamp": "2024-12-01T10:43:40.599Z",
+        "tags": [
+            {
+                "uuid": "1ccf818e-d932-4c8e-a97a-5117e2f6c6e9",
+                "key": "source",
+                "value": "MBARI/VARS",
+                "mediaType": "text/plain"
+            }
+        ],
+        "boundingBoxes": [
+            {
+                "uuid": "deb6e3d7-7922-4cff-b23a-b2806fc9a422",
+                "userDefinedKey": "e80fd7d5-7532-4b09-576b-51c31077b51e",
+                "concept": "Lampocteis cruentiventer",
+                "height": 280,
+                "observer": "master@mbari.org",
+                "width": 271,
+                "x": 240,
+                "y": 0,
+                "rejected": false,
+                "verified": false,
+                "lastUpdatedTimestamp": "2021-11-01T17:17:24.751Z",
+                "createdTimestamp": "2021-09-29T21:24:04.949Z"
+            }
+        ]
+    },
+    {
+        "uuid": "83c52b3e-dade-43c2-9b0d-50a5a4409d30",
+        "url": "https://database.fathomnet.org/static/m3/framegrabs/Ventana/stills/2000/270/02_27_43_17.png",
+        "local_path": "fathomnet_data\\Lampocteis_cruentiventer\\images\\Lampocteis_cruentiventer_42.jpg",
+        "contributorsEmail": "brian@mbari.org",
+        "width": 640,
+        "height": 366,
+        "imagingType": "ROV",
+        "salinity": 34.29600143432617,
+        "temperatureCelsius": 6.039000034332275,
+        "oxygenMlL": 0.6000000238418579,
+        "latitude": 36.717453,
+        "longitude": -122.068582,
+        "sha256": "53296d05e1e37676e02234f5571ddee5ee9ad22ce07177701bc662d38f77889c",
+        "createdTimestamp": "2021-09-29T21:17:08.684Z",
+        "lastValidation": "2024-12-01T11:37:06.194206Z",
+        "valid": true,
+        "lastUpdatedTimestamp": "2024-12-01T11:37:06.200Z",
+        "tags": [
+            {
+                "uuid": "bccf9dc0-adab-4c7f-a5fb-304799810418",
+                "key": "source",
+                "value": "MBARI/VARS",
+                "mediaType": "text/plain"
+            }
+        ],
+        "boundingBoxes": [
+            {
+                "uuid": "8b718c79-d14e-4d09-85ba-f6d3034ce4c1",
+                "userDefinedKey": "4a8fc22b-b0fc-4845-486c-8070ed76b51e",
+                "concept": "Lampocteis cruentiventer",
+                "height": 196,
+                "observer": "master@mbari.org",
+                "width": 232,
+                "x": 214,
+                "y": 86,
+                "rejected": false,
+                "verified": false,
+                "lastUpdatedTimestamp": "2021-11-01T17:38:43.671Z",
+                "createdTimestamp": "2021-09-29T21:17:10.234Z"
+            }
+        ]
+    },
+    {
+        "uuid": "21ba3fd0-90cf-4227-b097-5de91d82f852",
+        "url": "https://database.fathomnet.org/static/m3/framegrabs/Ventana/stills/2000/270/02_27_50_01.png",
+        "local_path": "fathomnet_data\\Lampocteis_cruentiventer\\images\\Lampocteis_cruentiventer_43.jpg",
+        "contributorsEmail": "brian@mbari.org",
+        "width": 640,
+        "height": 366,
+        "imagingType": "ROV",
+        "salinity": 34.29600143432617,
+        "temperatureCelsius": 6.039000034332275,
+        "oxygenMlL": 0.6000000238418579,
+        "latitude": 36.717453,
+        "longitude": -122.068582,
+        "sha256": "b2c788559a0a5f4863d5da2596d4ed78991ba1413a217ff4ab254b9164d50de8",
+        "createdTimestamp": "2021-09-29T21:16:59.769Z",
+        "lastValidation": "2024-12-01T11:39:46.909302Z",
+        "valid": true,
+        "lastUpdatedTimestamp": "2024-12-01T11:39:46.914Z",
+        "tags": [
+            {
+                "uuid": "c9056bcf-1075-43c8-a2f1-b2ef70ec0aad",
+                "key": "source",
+                "value": "MBARI/VARS",
+                "mediaType": "text/plain"
+            }
+        ],
+        "boundingBoxes": [
+            {
+                "uuid": "308fbd66-96be-4444-8ca4-b978620ba818",
+                "userDefinedKey": "6ffef1c4-b7e5-45e1-1566-61f7cbe1b41e",
+                "concept": "Lampocteis cruentiventer",
+                "height": 218,
+                "observer": "master@mbari.org",
+                "width": 198,
+                "x": 310,
+                "y": 59,
+                "rejected": false,
+                "verified": false,
+                "lastUpdatedTimestamp": "2021-11-01T17:39:45.277Z",
+                "createdTimestamp": "2021-09-29T21:17:01.423Z"
+            }
+        ]
+    },
+    {
+        "uuid": "4dac149f-bb77-4840-9676-51efd1c14c90",
+        "url": "https://database.fathomnet.org/static/m3/framegrabs/Ventana/stills/2000/270/02_27_56_01.png",
+        "local_path": "fathomnet_data\\Lampocteis_cruentiventer\\images\\Lampocteis_cruentiventer_44.jpg",
+        "contributorsEmail": "brian@mbari.org",
+        "width": 640,
+        "height": 366,
+        "imagingType": "ROV",
+        "salinity": 34.292999267578125,
+        "temperatureCelsius": 6.039999961853027,
+        "oxygenMlL": 0.6000000238418579,
+        "latitude": 36.717427,
+        "longitude": -122.068621,
+        "sha256": "22b71ac592174ffb4deead741d8f4c27c9740bc214f42d9db911952b0e82146a",
+        "createdTimestamp": "2021-09-29T21:24:59.255Z",
+        "lastValidation": "2024-12-01T10:39:05.799640Z",
+        "valid": true,
+        "lastUpdatedTimestamp": "2024-12-01T10:39:05.804Z",
+        "tags": [
+            {
+                "uuid": "fb5ea75d-1932-45dd-9279-a718298f8858",
+                "key": "source",
+                "value": "MBARI/VARS",
+                "mediaType": "text/plain"
+            }
+        ],
+        "boundingBoxes": [
+            {
+                "uuid": "31a84b1d-7074-43e5-b520-6267de63d73e",
+                "userDefinedKey": "356a8cb1-be11-42b2-8c64-66843a5bb41e",
+                "concept": "Lampocteis cruentiventer",
+                "height": 230,
+                "observer": "master@mbari.org",
+                "width": 232,
+                "x": 162,
+                "y": 41,
+                "rejected": false,
+                "verified": false,
+                "lastUpdatedTimestamp": "2021-11-01T17:15:32.561Z",
+                "createdTimestamp": "2021-09-29T21:25:00.949Z"
+            }
+        ]
+    },
+    {
+        "uuid": "f832413b-3617-49a5-9ca1-bcba3c4bde5b",
+        "url": "https://database.fathomnet.org/static/m3/framegrabs/Ventana/stills/2000/270/02_28_00_00.png",
+        "local_path": "fathomnet_data\\Lampocteis_cruentiventer\\images\\Lampocteis_cruentiventer_45.jpg",
+        "contributorsEmail": "brian@mbari.org",
+        "width": 640,
+        "height": 366,
+        "imagingType": "ROV",
+        "salinity": 34.29600143432617,
+        "temperatureCelsius": 6.038000106811523,
+        "oxygenMlL": 0.6000000238418579,
+        "latitude": 36.717399,
+        "longitude": -122.06866,
+        "sha256": "140fbbf1f8b170d9399dfd85c3cdd471d3091fb8ea021e94d46fac32a48be38d",
+        "createdTimestamp": "2021-09-29T21:15:52.073Z",
+        "lastValidation": "2024-12-01T11:57:30.697491Z",
+        "valid": true,
+        "lastUpdatedTimestamp": "2024-12-01T11:57:30.702Z",
+        "tags": [
+            {
+                "uuid": "3f3c8fdf-fb04-4f26-83e7-d5a3c199a5d8",
+                "key": "source",
+                "value": "MBARI/VARS",
+                "mediaType": "text/plain"
+            }
+        ],
+        "boundingBoxes": [
+            {
+                "uuid": "1787f86c-71af-483e-9c21-bdc61bde3189",
+                "userDefinedKey": "3746b658-c24b-4131-d967-3bcb2ea7b41e",
+                "concept": "Lampocteis cruentiventer",
+                "height": 214,
+                "observer": "master@mbari.org",
+                "width": 296,
+                "x": 5,
+                "y": 1,
+                "rejected": false,
+                "verified": false,
+                "lastUpdatedTimestamp": "2021-11-01T17:46:26.801Z",
+                "createdTimestamp": "2021-09-29T21:15:53.769Z"
+            }
+        ]
+    },
+    {
+        "uuid": "62a41844-1947-41ba-87a5-89350e845a51",
+        "url": "https://database.fathomnet.org/static/m3/framegrabs/Ventana/stills/2000/270/02_28_05_16.png",
+        "local_path": "fathomnet_data\\Lampocteis_cruentiventer\\images\\Lampocteis_cruentiventer_46.jpg",
+        "contributorsEmail": "brian@mbari.org",
+        "width": 640,
+        "height": 366,
+        "imagingType": "ROV",
+        "salinity": 34.29600143432617,
+        "temperatureCelsius": 6.038000106811523,
+        "oxygenMlL": 0.6000000238418579,
+        "latitude": 36.717399,
+        "longitude": -122.06866,
+        "sha256": "9e2130a6c6a5e97d7950f05f298f62521e7b828912539a074e0f0826eee112ee",
+        "createdTimestamp": "2021-09-29T21:27:22.633Z",
+        "lastValidation": "2024-12-01T10:26:22.857422Z",
+        "valid": true,
+        "lastUpdatedTimestamp": "2024-12-01T10:26:22.861Z",
+        "tags": [
+            {
+                "uuid": "c6f39e04-ac2f-4c08-9607-38ba598732fc",
+                "key": "source",
+                "value": "MBARI/VARS",
+                "mediaType": "text/plain"
+            }
+        ],
+        "boundingBoxes": [
+            {
+                "uuid": "1286bad4-4639-4215-b4ce-284d1ce51342",
+                "userDefinedKey": "f943e807-caf3-4ec5-186b-33c3e05cb51e",
+                "concept": "Lampocteis cruentiventer",
+                "height": 263,
+                "observer": "master@mbari.org",
+                "width": 330,
+                "x": 68,
+                "y": 38,
+                "rejected": false,
+                "verified": false,
+                "lastUpdatedTimestamp": "2021-11-01T16:56:38.837Z",
+                "createdTimestamp": "2021-09-29T21:27:24.255Z"
+            }
+        ]
+    },
+    {
+        "uuid": "f2c4cde2-3b70-4f7c-ba3b-5ae4975ad149",
+        "url": "https://database.fathomnet.org/static/m3/framegrabs/Ventana/stills/2000/270/02_28_09_15.png",
+        "local_path": "fathomnet_data\\Lampocteis_cruentiventer\\images\\Lampocteis_cruentiventer_47.jpg",
+        "contributorsEmail": "brian@mbari.org",
+        "width": 640,
+        "height": 366,
+        "imagingType": "ROV",
+        "salinity": 34.30400085449219,
+        "temperatureCelsius": 6.041999816894531,
+        "oxygenMlL": 0.6000000238418579,
+        "latitude": 36.71738,
+        "longitude": -122.068694,
+        "sha256": "e01b545f219f13b579b65aae8cfe9dba9cb1daf54a137ef62cc4dc014886fcac",
+        "createdTimestamp": "2021-09-29T21:28:28.586Z",
+        "lastValidation": "2024-12-01T10:20:24.371801Z",
+        "valid": true,
+        "lastUpdatedTimestamp": "2024-12-01T10:20:24.377Z",
+        "tags": [
+            {
+                "uuid": "d47b7cf8-e685-4ccb-b71e-92716aa17538",
+                "key": "source",
+                "value": "MBARI/VARS",
+                "mediaType": "text/plain"
+            }
+        ],
+        "boundingBoxes": [
+            {
+                "uuid": "363a5909-2c45-4c2a-a90a-2e90cb26dc4e",
+                "userDefinedKey": "ca398798-0e70-41bb-6e65-1e458d6bb51e",
+                "concept": "Lampocteis cruentiventer",
+                "height": 149,
+                "observer": "master@mbari.org",
+                "width": 215,
+                "x": 298,
+                "y": 212,
+                "rejected": false,
+                "verified": false,
+                "lastUpdatedTimestamp": "2021-11-01T16:54:12.187Z",
+                "createdTimestamp": "2021-09-29T21:28:30.306Z"
+            }
+        ]
+    },
+    {
+        "uuid": "5beae294-c971-4d08-b807-dbfaf6d428f3",
+        "url": "https://database.fathomnet.org/static/m3/framegrabs/Ventana/stills/2000/270/02_28_12_16.png",
+        "local_path": "fathomnet_data\\Lampocteis_cruentiventer\\images\\Lampocteis_cruentiventer_48.jpg",
+        "contributorsEmail": "brian@mbari.org",
+        "width": 640,
+        "height": 366,
+        "imagingType": "ROV",
+        "salinity": 34.30400085449219,
+        "temperatureCelsius": 6.041999816894531,
+        "oxygenMlL": 0.6000000238418579,
+        "latitude": 36.71738,
+        "longitude": -122.068694,
+        "sha256": "83d57f0ad75c74f77547fdf7d821560b92e721acbc0812ea848e4d64eedb5d18",
+        "createdTimestamp": "2021-09-29T21:16:36.432Z",
+        "lastValidation": "2024-12-01T11:44:26.931838Z",
+        "valid": true,
+        "lastUpdatedTimestamp": "2024-12-01T11:44:26.937Z",
+        "tags": [
+            {
+                "uuid": "c0fcaadf-c755-4a2f-beec-a31e9f003eab",
+                "key": "source",
+                "value": "MBARI/VARS",
+                "mediaType": "text/plain"
+            }
+        ],
+        "boundingBoxes": [
+            {
+                "uuid": "0f43b9a5-9c0d-41f9-b559-4294c74e7e74",
+                "userDefinedKey": "0b90696e-f954-4af7-8761-f007ec45b51e",
+                "concept": "Lampocteis cruentiventer",
+                "height": 192,
+                "observer": "master@mbari.org",
+                "width": 206,
+                "x": 273,
+                "y": 89,
+                "rejected": false,
+                "verified": false,
+                "lastUpdatedTimestamp": "2021-11-01T17:41:25.316Z",
+                "createdTimestamp": "2021-09-29T21:16:38.048Z"
+            }
+        ]
+    },
+    {
+        "uuid": "66e4eb1a-5b80-4976-9a70-9bc3644d2574",
+        "url": "https://database.fathomnet.org/static/m3/framegrabs/Ventana/stills/2000/270/02_28_15_01.png",
+        "local_path": "fathomnet_data\\Lampocteis_cruentiventer\\images\\Lampocteis_cruentiventer_49.jpg",
+        "contributorsEmail": "brian@mbari.org",
+        "width": 640,
+        "height": 366,
+        "imagingType": "ROV",
+        "salinity": 34.30400085449219,
+        "temperatureCelsius": 6.041999816894531,
+        "oxygenMlL": 0.6000000238418579,
+        "latitude": 36.71738,
+        "longitude": -122.068694,
+        "sha256": "f37d0937c5c2d395949bc3e4b7eaf82e0c7ed7a8e9e3c8230d4601b6e8504297",
+        "createdTimestamp": "2021-09-29T21:18:32.260Z",
+        "lastValidation": "2024-12-01T11:23:24.390413Z",
+        "valid": true,
+        "lastUpdatedTimestamp": "2024-12-01T11:23:24.402Z",
+        "tags": [
+            {
+                "uuid": "be911c0c-00bf-41c1-ae10-5a7c20681877",
+                "key": "source",
+                "value": "MBARI/VARS",
+                "mediaType": "text/plain"
+            }
+        ],
+        "boundingBoxes": [
+            {
+                "uuid": "78135b33-2f21-4c64-a8ff-ac037cb7f45b",
+                "userDefinedKey": "8678eefc-de82-4c1e-d466-025d1c20b51e",
+                "concept": "Lampocteis cruentiventer",
+                "height": 127,
+                "observer": "master@mbari.org",
+                "width": 187,
+                "x": 174,
+                "y": 236,
+                "rejected": false,
+                "verified": false,
+                "lastUpdatedTimestamp": "2021-11-01T17:33:19.853Z",
+                "createdTimestamp": "2021-09-29T21:18:33.903Z"
+            }
+        ]
+    }
+]
