@@ -3,8 +3,8 @@ import requests
 import json
 import os
 
-concepts = ["Nanomia", "Lampocteis cruentiventer", "Bathochordaeus"] 
-limit = 50
+concepts = ["Acanthascinae", "Lampocteis cruentiventer", "Bathochordaeus"] 
+limit = 200
 
 base_dir = "fathomnet_data"
 os.makedirs(base_dir, exist_ok=True)
